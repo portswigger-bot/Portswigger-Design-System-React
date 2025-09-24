@@ -1,0 +1,591 @@
+.feedback-discontinuing-burp-suite-jar-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-main {
+  padding-bottom: var(--dl-layout-space-l);
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text100 {
+  color: var(--dl-color-text-header-white);
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text101 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text102 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text103 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text104 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text105 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text106 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text107 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text115 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text116 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text117 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text118 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text119 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text120 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text131 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text132 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text133 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-link1 {
+  text-decoration: underline;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text142 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text143 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text144 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text149 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text150 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text151 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text156 {
+  font-weight: 700;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text161 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-link2 {
+  text-decoration: underline;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text166 {
+  font-weight: 700;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text168 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text171 {
+  font-weight: 700;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text172 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text175 {
+  font-weight: 700;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text176 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text178 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text179 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text181 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text182 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text184 {
+  font-weight: bold;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text185 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text187 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text188 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text189 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text190 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text191 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text192 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text193 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text194 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text195 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text196 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text197 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text198 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text199 {
+  font-weight: 700;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text203 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text206 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text210 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text211 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text212 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text213 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text214 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text216 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text217 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text218 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text219 {
+  font-weight: 700;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text221 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text223 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text225 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text227 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text228 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text229 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text234 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text235 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text236 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text237 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-link3 {
+  text-decoration: underline;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text242 {
+  font-weight: 700;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text244 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text247 {
+  font-weight: 700;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text248 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text251 {
+  font-weight: 700;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text252 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text254 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text255 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text256 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text258 {
+  font-weight: bold;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text259 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text261 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text262 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text263 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text264 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text265 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text266 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text267 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text268 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text269 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text270 {
+  font-weight: 700;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text272 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text273 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text274 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text275 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text279 {
+  font-weight: 700;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text281 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text284 {
+  font-weight: 700;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text285 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text287 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text288 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text289 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text291 {
+  font-weight: bold;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text292 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text294 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text295 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text296 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text297 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text298 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text299 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text300 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text301 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text302 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text303 {
+  font-weight: 700;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text305 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text306 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text307 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text311 {
+  font-weight: 700;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text313 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-link4 {
+  text-decoration: underline;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text316 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text317 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text318 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text320 {
+  font-family: "Courier New";
+}
+ 
+.feedback-discontinuing-burp-suite-jar-link5 {
+  text-decoration: underline;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text322 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text323 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text324 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text325 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text326 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text327 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text328 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text329 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text330 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-component33 {
+  text-decoration: none;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text331 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text332 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text333 {
+  display: inline-block;
+}
+ 
+.feedback-discontinuing-burp-suite-jar-text334 {
+  display: inline-block;
+}
+ 
+@media(max-width: 1280px) {
+  .feedback-discontinuing-burp-suite-jar-container2 {
+    padding-left: var(--dl-layout-space-m);
+    padding-right: var(--dl-layout-space-m);
+  }
+}

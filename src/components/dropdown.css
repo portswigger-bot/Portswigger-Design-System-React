@@ -1,0 +1,24 @@
+.dropdown-text {
+  display: inline-block;
+}
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+@media(max-width: 390px) {
+  .dropdown-dropdown {
+    width: 100%;
+  }
+  .dropdown-ul {
+    position: static;
+  }
+}

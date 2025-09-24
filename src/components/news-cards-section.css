@@ -1,0 +1,141 @@
+.news-cards-section-text10 {
+  display: inline-block;
+}
+ 
+.news-cards-section-text11 {
+  display: inline-block;
+}
+ 
+.news-cards-section-text12 {
+  display: inline-block;
+}
+ 
+.news-cards-section-text13 {
+  display: inline-block;
+}
+ 
+.news-cards-section-text14 {
+  display: inline-block;
+}
+ 
+.news-cards-section-description1 {
+  color: var(--dl-color-text-body-grey);
+  display: inline-block;
+}
+ 
+.news-cards-section-text18 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.news-cards-section-text19 {
+  display: inline-block;
+}
+ 
+.news-cards-section-text20 {
+  display: inline-block;
+}
+ 
+.news-cards-section-description2 {
+  color: var(--dl-color-text-body-grey);
+  display: inline-block;
+}
+ 
+.news-cards-section-text21 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.news-cards-section-text22 {
+  display: inline-block;
+}
+ 
+.news-cards-section-text23 {
+  display: inline-block;
+}
+ 
+.news-cards-section-description3 {
+  color: var(--dl-color-text-body-grey);
+  display: inline-block;
+}
+ 
+.news-cards-section-text24 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.news-cards-section-text25 {
+  display: inline-block;
+}
+ 
+.news-cards-section-text26 {
+  display: inline-block;
+}
+ 
+.news-cards-section-description4 {
+  color: var(--dl-color-text-body-grey);
+  display: inline-block;
+}
+ 
+.news-cards-section-text27 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.news-cards-section-text28 {
+  display: inline-block;
+}
+ 
+.news-cards-section-text29 {
+  display: inline-block;
+}
+ 
+.news-cards-section-description5 {
+  color: var(--dl-color-text-body-grey);
+  display: inline-block;
+}
+ 
+.news-cards-section-text30 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.news-cards-section-text31 {
+  display: inline-block;
+}
+ 
+.news-cards-section-text32 {
+  display: inline-block;
+}
+ 
+.news-cards-section-description6 {
+  color: var(--dl-color-text-body-grey);
+  display: inline-block;
+}
+ 
+.news-cards-section-text33 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.news-cards-section-component8 {
+  text-decoration: none;
+}
+ 
+.news-cards-section-text34 {
+  display: inline-block;
+}
+ 
+.news-cards-sectionroot-class-name {
+  background-color: var(--dl-color-backgrounds-grey-1);
+}
+ 
+.news-cards-sectionroot-class-name1 {
+  background-color: var(--dl-color-backgrounds-grey-1);
+}
+ 
+@media(max-width: 800px) {
+  .news-cards-section-description1 {
+    color: var(--dl-color-text-body-grey);
+  }
+}

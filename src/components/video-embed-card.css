@@ -1,0 +1,22 @@
+.video-embed-card-container {
+  align-items: center;
+  aspect-ratio: 16/9;
+}
+ 
+.video-embed-card-iframe {
+  width: 100%;
+  min-width: 320px;
+  min-height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+ 
+.video-embed-card-text1 {
+  align-self: center;
+  margin-top: 1rem;
+  text-align: center;
+}
+ 
+.video-embed-card-text2 {
+  display: inline-block;
+}

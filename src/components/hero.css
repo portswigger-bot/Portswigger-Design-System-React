@@ -1,0 +1,258 @@
+.hero-top-logo {
+  align-self: flex-start;
+  max-height: 80px;
+  min-height: 60px;
+  object-fit: contain;
+}
+ 
+.hero-top-label {
+  fill: var(--dl-color-core-orange-1);
+  color: var(--dl-color-core-orange-1);
+  margin-bottom: -0.35rem;
+}
+ 
+.hero-checklist {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.hero-component2 {
+  text-decoration: none;
+}
+ 
+.hero-component3 {
+  text-decoration: none;
+}
+ 
+.hero-image {
+  padding-left: var(--dl-layout-space-m);
+}
+ 
+.hero-text3 {
+  display: inline-block;
+}
+ 
+.hero-text4 {
+  display: inline-block;
+}
+ 
+.hero-text5 {
+  display: inline-block;
+}
+ 
+.hero-text6 {
+  display: inline-block;
+}
+ 
+.hero-text7 {
+  display: inline-block;
+}
+ 
+.heroroot-class-name {
+  fill: var(--dl-color-text-header-white);
+  color: var(--dl-color-text-header-white);
+  z-index: 0;
+  background-color: var(--dl-color-core-navy-1);
+}
+ 
+.heroroot-class-name1 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: var(--dl-color-core-community-6);
+}
+ 
+.heroroot-class-name2 {
+  margin-top: 0px;
+  padding-top: var(--dl-layout-space-xl);
+  padding-bottom: 0px;
+  background-color: #040423;
+}
+ 
+
+ 
+.heroroot-class-name4 {
+  fill: var(--dl-color-text-header-navy);
+  color: var(--dl-color-text-header-navy);
+  z-index: 0;
+}
+ 
+.heroroot-class-name5 {
+  padding-top: var(--dl-layout-space-xxl);
+  margin-bottom: var(--dl-layout-space-l);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-portswigger-primary);
+}
+ 
+.heroroot-class-name6 {
+  margin-top: 0px;
+  padding-top: var(--dl-layout-space-xl);
+  padding-bottom: 0px;
+  background-color: #040423;
+}
+ 
+.heroroot-class-name7 {
+  padding-top: var(--dl-layout-space-l);
+  padding-bottom: var(--dl-layout-space-l);
+  background-color: var(--dl-color-portswigger-primary);
+}
+ 
+.heroroot-class-name8 {
+  padding-top: var(--dl-layout-space-l);
+  padding-bottom: var(--dl-layout-space-l);
+  background-color: var(--dl-color-portswigger-primary);
+}
+ 
+.heroroot-class-name9 {
+  padding-top: var(--dl-layout-space-l);
+  padding-bottom: var(--dl-layout-space-l);
+  background-color: var(--dl-color-portswigger-primary);
+}
+ 
+.heroroot-class-name10 {
+  padding-top: var(--dl-layout-space-l);
+  padding-bottom: var(--dl-layout-space-l);
+  background-color: var(--dl-color-portswigger-primary);
+}
+ 
+.heroroot-class-name11 {
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-core-navy-1);
+}
+ 
+.heroroot-class-name12 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: var(--dl-color-backgrounds-deep-indigo-blue);
+}
+ 
+.heroroot-class-name13 {
+  background-color: var(--dl-color-core-navy-1);
+}
+ 
+.heroroot-class-name14 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: var(--dl-color-backgrounds-deep-indigo-blue);
+}
+ 
+.heroroot-class-name15 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-bottom: var(--dl-layout-space-xl);
+  background-color: var(--dl-color-core-navy-1);
+}
+ 
+.heroroot-class-name16 {
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-core-navy-1);
+}
+ 
+.heroroot-class-name17 {
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-core-navy-1);
+}
+ 
+.heroroot-class-name18 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-bottom: var(--dl-layout-space-xl);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+.heroroot-class-name19 {
+  fill: var(--dl-color-text-white);
+  color: var(--dl-color-text-white);
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-core-navy-1);
+}
+ 
+.heroroot-class-name20 {
+  fill: var(--dl-color-text-white);
+  color: var(--dl-color-text-white);
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-core-navy-1);
+}
+ 
+.heroroot-class-name21 {
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+.heroroot-class-name22 {
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+
+ 
+.heroroot-class-name24 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: var(--dl-color-core-community-6);
+}
+ 
+@media(max-width: 1280px) {
+  .hero-max-width {
+    flex-direction: column-reverse;
+  }
+  .hero-image {
+    padding-left: 0px;
+  }
+  .heroroot-class-name1 {
+    padding-bottom: var(--dl-layout-space-l);
+  }
+  .heroroot-class-name12 {
+    padding-top: var(--dl-layout-space-l);
+    padding-bottom: var(--dl-layout-space-l);
+  }
+  .heroroot-class-name14 {
+    padding-top: var(--dl-layout-space-l);
+    padding-bottom: var(--dl-layout-space-l);
+  }
+  .heroroot-class-name15 {
+    padding-top: var(--dl-layout-space-l);
+    padding-bottom: var(--dl-layout-space-l);
+  }
+  .heroroot-class-name18 {
+    padding-top: var(--dl-layout-space-l);
+    padding-bottom: var(--dl-layout-space-l);
+  }
+  .heroroot-class-name19 {
+    padding-top: var(--dl-layout-space-l);
+    padding-bottom: var(--dl-layout-space-l);
+  }
+  .heroroot-class-name20 {
+    padding-top: var(--dl-layout-space-l);
+    padding-bottom: var(--dl-layout-space-l);
+  }
+  .heroroot-class-name21 {
+    padding-top: var(--dl-layout-space-l);
+    padding-bottom: var(--dl-layout-space-l);
+  }
+  .heroroot-class-name22 {
+    padding-top: var(--dl-layout-space-l);
+    padding-bottom: var(--dl-layout-space-l);
+  }
+  .heroroot-class-name24 {
+    padding-bottom: var(--dl-layout-space-l);
+  }
+}
+ 
+@media(max-width: 800px) {
+  .hero-max-width {
+    align-items: flex-start;
+  }
+}
+ 
+@media(max-width: 390px) {
+  .hero-buttons {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,74 @@
+.company-logos-companies-logo-banner {
+  position: relative;
+}
+ 
+.company-logos-image1 {
+  max-height: 50px;
+  object-fit: contain;
+}
+ 
+.company-logos-image2 {
+  max-height: 50px;
+  object-fit: contain;
+}
+ 
+.company-logos-image3 {
+  max-height: 50px;
+  object-fit: contain;
+}
+ 
+.company-logos-image4 {
+  max-height: 50px;
+  object-fit: contain;
+}
+ 
+.company-logos-image5 {
+  max-height: 50px;
+  object-fit: contain;
+}
+ 
+.company-logosroot-class-name {
+  padding-top: var(--dl-layout-space-l);
+  padding-bottom: var(--dl-layout-space-xl);
+}
+ 
+
+ 
+.company-logosroot-class-name2 {
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+.company-logosroot-class-name7 {
+  padding-top: var(--dl-layout-space-l);
+  padding-bottom: var(--dl-layout-space-l);
+}
+ 
+
+ 
+
+ 
+.company-logosroot-class-name10 {
+  padding-top: var(--dl-layout-space-l);
+  padding-bottom: var(--dl-layout-space-xl);
+}
+ 
+@media(max-width: 1280px) {
+  .company-logos-max-width {
+    flex-wrap: wrap;
+  }
+}
+ 
+@media(max-width: 800px) {
+  .company-logos-max-width {
+    gap: var(--dl-layout-space-m);
+    justify-content: center;
+  }
+}

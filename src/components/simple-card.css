@@ -1,0 +1,41 @@
+.simple-card-link {
+  display: contents;
+}
+ 
+.simple-card-text1 {
+  fill: var(--dl-color-core-navy-1);
+  color: var(--dl-color-core-navy-1);
+}
+ 
+.simple-card-button-link {
+  margin-top: auto;
+}
+ 
+.simple-card-text2 {
+  white-space: nowrap;
+}
+ 
+.simple-card-text3 {
+  display: inline-block;
+}
+ 
+.simple-card-text4 {
+  display: inline-block;
+}
+ 
+.simple-cardroot-class-name2 {
+  width: 50%;
+}
+ 
+.simple-cardroot-class-name3 {
+  width: 50%;
+}
+ 
+@media(max-width: 800px) {
+  .simple-cardroot-class-name2 {
+    width: 100%;
+  }
+  .simple-cardroot-class-name3 {
+    width: 100%;
+  }
+}

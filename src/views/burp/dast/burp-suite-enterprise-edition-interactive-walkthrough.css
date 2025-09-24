@@ -1,0 +1,884 @@
+.burp-suite-enterprise-edition-interactive-walkthrough-container10 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container11 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-layout-space-oneandhalfunits);
+  flex-direction: row;
+  padding-bottom: var(--dl-layout-space-oneandhalfunits);
+  justify-content: center;
+  background-color: #1A1A39;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-link {
+  display: contents;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-image1 {
+  width: 253px;
+  height: 40px;
+  object-fit: cover;
+  text-decoration: none;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-hero-form {
+  height: 100%;
+  position: relative;
+  min-height: 1080px;
+  padding-top: 0px;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  padding-bottom: 4rem;
+  background-size: cover;
+  background-color: #0c0329;
+  background-image: url("/external/banner-demo-page-1100h-1100h.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-max-width {
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-benefits {
+  width: 55%;
+  justify-content: center;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text10 {
+  fill: var(--dl-color-default-orange1);
+  color: var(--dl-color-text-blue2);
+  font-size: 1.375rem;
+  font-family: "Arial";
+  font-weight: 700;
+  line-height: 1.45;
+  text-transform: none;
+  text-decoration: none;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text11 {
+  color: var(--dl-color-text-white);
+  font-size: 4rem;
+  align-self: flex-start;
+  text-align: left;
+  font-family: "Arial";
+  line-height: 100%;
+  letter-spacing: -2px;
+  padding-bottom: 1rem;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text15 {
+  color: var(--dl-color-text-white);
+  font-size: 1.375rem;
+  align-self: flex-start;
+  font-style: normal;
+  text-align: left;
+  font-family: "Arial";
+  font-weight: 500;
+  line-height: 140%;
+  text-transform: none;
+  text-decoration: none;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text22 {
+  font-weight: 700;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-illustration {
+  width: 45%;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-form {
+  width: 100%;
+  display: flex;
+  padding: 30px;
+  align-self: center;
+  min-height: 600px;
+  align-items: flex-start;
+  border-radius: 18px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ffffff;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-demo-request-form1 {
+  display: none;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-demo-request-form2 {
+  display: none;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text26 {
+  fill: var(--dl-color-portswigger-primary);
+  color: var(--dl-color-portswigger-primary);
+  font-size: 2rem;
+  align-self: center;
+  text-align: center;
+  font-family: "Arial";
+  line-height: 100%;
+  letter-spacing: -2px;
+  padding-bottom: 1.5rem;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container13 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  min-height: 400px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container14 {
+  width: 100%;
+  display: flex;
+  align-self: center;
+  max-height: 100px;
+  min-height: 100px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container15 {
+  gap: 5px;
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-self: flex-end;
+  max-height: 100px;
+  min-height: 100px;
+  align-items: flex-start;
+  padding-right: 20px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text30 {
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-textinput1 {
+  width: 100%;
+  min-height: 45px;
+  border-color: Blue1 (Backgrounds);
+  border-radius: 12px;
+  background-color: var(--dl-color-backgrounds-blue6);
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text31 {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  font-size: 0.9rem;
+  font-style: normal;
+  margin-top: 0px;
+  font-family: "Arial";
+  font-weight: 700;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container16 {
+  gap: 5px;
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-self: flex-end;
+  max-height: 100px;
+  min-height: 100px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text32 {
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-textinput2 {
+  width: 100%;
+  min-height: 45px;
+  border-color: Blue1 (Backgrounds);
+  border-radius: 12px;
+  background-color: var(--dl-color-backgrounds-blue6);
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text33 {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container17 {
+  width: 100%;
+  display: flex;
+  align-self: center;
+  max-height: 100px;
+  min-height: 100px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container18 {
+  gap: 5px;
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-self: flex-end;
+  max-height: 100px;
+  min-height: 100px;
+  align-items: flex-start;
+  padding-right: 20px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text34 {
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-textinput3 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  width: 100%;
+  max-height: 45px;
+  min-height: 45px;
+  border-color: Blue1 (Backgrounds);
+  border-radius: 12px;
+  background-color: var(--dl-color-backgrounds-blue6);
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text35 {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container19 {
+  gap: 5px;
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  max-height: 100px;
+  min-height: 100px;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text36 {
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-job-functionrole {
+  flex: 1;
+  width: 100%;
+  align-self: center;
+  max-height: 45px;
+  min-height: 45px;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  padding-left: 13px;
+  border-radius: 12px;
+  background-color: var(--dl-color-backgrounds-blue6);
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text37 {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  font-size: 0.9rem;
+  font-style: normal;
+  margin-top: 0px;
+  font-family: "Arial";
+  font-weight: 700;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container20 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  max-height: 100px;
+  min-height: 100px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text38 {
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-select {
+  flex: 1;
+  width: 100%;
+  max-height: 45px;
+  min-height: 45px;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  padding-left: 12px;
+  border-radius: 12px;
+  background-color: var(--dl-color-backgrounds-blue6);
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text42 {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  display: flex;
+  font-size: 0.9rem;
+  font-style: normal;
+  margin-top: 10px;
+  font-family: "Arial";
+  font-weight: 700;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-button {
+  gap: 8px;
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 12px 24px;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-width: 0px;
+  border-radius: 40px;
+  padding-right: 12px 24px;
+  padding-bottom: 12px 24px;
+  justify-content: center;
+  background-color: rgba(255, 102, 51, 1);
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-button:hover {
+  background-color: #D84104;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text43 {
+  color: var(--dl-color-text-white);
+  font-size: 1rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 400;
+  line-height: 1.45;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-testimonial {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  align-items: center;
+  padding-top: 4rem;
+  flex-direction: row;
+  padding-bottom: 4rem;
+  justify-content: center;
+  background-color: #f7f8f9;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container21 {
+  gap: 3rem;
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1140px;
+  align-self: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-hero-card {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  min-height: 300px;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: space-between;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container22 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container23 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  min-height: 80px;
+  align-items: flex-start;
+  padding-top: 1rem;
+  padding-right: 2rem;
+  flex-direction: column;
+  padding-bottom: 1rem;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-image2 {
+  width: 200px;
+  align-self: flex-start;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container24 {
+  flex: 0 0 auto;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: row;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container25 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text44 {
+  fill: var(--dl-color-portswigger-primary);
+  color: var(--dl-color-portswigger-primary);
+  width: 100%;
+  font-size: 2rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  line-height: 1.45;
+  padding-bottom: 2rem;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text45 {
+  fill: var(--dl-color-portswigger-primary);
+  color: var(--dl-color-portswigger-primary);
+  width: 100%;
+  font-size: 1.375rem;
+  font-style: normal;
+  text-align: left;
+  font-family: "Arial";
+  font-weight: 700;
+  line-height: 1.45;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-text48 {
+  fill: primary (portswigger);
+  color: primary (portswigger);
+  width: 100%;
+  font-size: 1.375rem;
+  font-style: normal;
+  text-align: left;
+  font-family: "Arial";
+  font-weight: 400;
+  line-height: 1.45;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-left-quote {
+  flex: 0 0 auto;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  margin-right: 20px;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-image3 {
+  width: 90%;
+  object-fit: cover;
+}
+ 
+.burp-suite-enterprise-edition-interactive-walkthrough-container26 {
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: var(--dl-color-default-white);
+}
+ 
+@media(max-width: 1536px) {
+  .burp-suite-enterprise-edition-interactive-walkthrough-text11 {
+    align-self: flex-start;
+    text-align: left;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text15 {
+    align-self: flex-start;
+    text-align: left;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text31 {
+    color: var(--dl-color-theme-primary2);
+    display: flex;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text33 {
+    color: var(--dl-color-theme-primary2);
+    display: flex;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text35 {
+    color: var(--dl-color-theme-primary2);
+    display: flex;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text37 {
+    color: var(--dl-color-theme-primary2);
+    display: flex;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text42 {
+    color: var(--dl-color-theme-primary2);
+    display: flex;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container21 {
+    gap: 3rem;
+    width: 90%;
+    flex-wrap: wrap;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+  }
+}
+ 
+@media(max-width: 1366px) {
+  .burp-suite-enterprise-edition-interactive-walkthrough-text11 {
+    align-self: flex-start;
+    text-align: left;
+    align-content: flex-start;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text15 {
+    align-self: flex-start;
+    text-align: left;
+    align-content: flex-start;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text34 {
+    display: flex;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text38 {
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-testimonial {
+    width: 100%;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container21 {
+    gap: 3rem;
+    width: 90%;
+    flex-wrap: wrap;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container26 {
+    width: 100%;
+  }
+}
+ 
+@media(max-width: 1280px) {
+  .burp-suite-enterprise-edition-interactive-walkthrough-container12 {
+    flex-direction: column;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-benefits {
+    width: 100%;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text10 {
+    text-align: center;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text11 {
+    width: 100%;
+    align-self: center;
+    text-align: center;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text15 {
+    align-self: center;
+    text-align: center;
+    padding-bottom: 0px;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-illustration {
+    width: 100%;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text26 {
+    width: 100%;
+    text-align: center;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-textinput3 {
+    margin-top: 0px;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-job-functionrole {
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-select {
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-button {
+    align-self: center;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-hero-card {
+    width: 100%;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container22 {
+    max-width: 1140px;
+  }
+}
+ 
+@media(max-width: 800px) {
+  .burp-suite-enterprise-edition-interactive-walkthrough-max-width {
+    margin-top: 0px;
+    margin-bottom: 10rem;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-benefits {
+    padding-top: 2rem;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text10 {
+    text-align: center;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text11 {
+    font-size: 3.5rem;
+    align-self: center;
+    text-align: center;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text15 {
+    align-self: center;
+    text-align: center;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-form {
+    width: 100%;
+    min-height: 600px;
+    margin-right: 5px;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container14 {
+    max-height: 100%;
+    flex-direction: column;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container15 {
+    width: 100%;
+    padding-right: 0px;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container16 {
+    width: 100%;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-textinput2 {
+    width: 100%;
+    max-width: 100%;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container17 {
+    max-height: 100%;
+    flex-direction: column;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container18 {
+    width: 100%;
+    padding-right: 0px;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container19 {
+    gap: 0;
+    width: 100%;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container20 {
+    margin-top: 0px;
+    margin-bottom: 1rem;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text38 {
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+    padding-bottom: 10px;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-select {
+    height: 65px;
+    max-width: 100%;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-button {
+    align-self: center;
+    justify-content: flex-start;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-testimonial {
+    align-self: center;
+    align-items: center;
+    padding-top: four;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    flex-direction: column;
+    padding-bottom: four;
+    justify-content: center;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container21 {
+    gap: 2rem;
+    width: 100%;
+    max-width: 1140px;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-hero-card {
+    width: 100%;
+    min-height: 350px;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text44 {
+    width: 100%;
+    font-size: 1.75rem;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text45 {
+    width: 100%;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text46 {
+    width: 100%;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text48 {
+    width: 100%;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text49 {
+    width: 100%;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container26 {
+    align-self: center;
+    align-items: center;
+    padding-top: 30px;
+    flex-direction: column;
+    padding-bottom: 30px;
+    justify-content: center;
+  }
+}
+ 
+@media(max-width: 390px) {
+  .burp-suite-enterprise-edition-interactive-walkthrough-hero-form {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text10 {
+    text-align: center;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text11 {
+    font-size: 3rem;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text15 {
+    align-self: center;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-form {
+    width: 100%;
+    max-height: auto;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text26 {
+    text-align: center;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container13 {
+    max-height: auto;
+    min-height: auto;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container14 {
+    flex: 1;
+    align-self: center;
+    max-height: 100%;
+    flex-direction: column;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container15 {
+    width: 100%;
+    padding-right: 0px;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container16 {
+    width: 100%;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container17 {
+    max-height: 100%;
+    flex-direction: column;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container18 {
+    width: 100%;
+    padding-right: 0px;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container19 {
+    width: 100%;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container20 {
+    max-height: 100%;
+    margin-bottom: 0px;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-select {
+    margin-top: 0px;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-container21 {
+    gap: 2rem;
+    width: 90%;
+    flex-direction: column;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-hero-card {
+    width: 310px;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text44 {
+    font-size: 1.5rem;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text45 {
+    font-size: 1.25rem;
+  }
+  .burp-suite-enterprise-edition-interactive-walkthrough-text48 {
+    font-size: 1.25rem;
+  }
+}

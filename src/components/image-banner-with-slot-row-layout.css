@@ -1,0 +1,58 @@
+.image-banner-with-slot-row-layout-other-side {
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.image-banner-with-slot-row-layout-image {
+  flex: 0 0 auto;
+}
+ 
+.image-banner-with-slot-row-layout-text1 {
+  color: var(--dl-color-core-navy-1);
+}
+ 
+
+ 
+
+ 
+
+ 
+.image-banner-with-slot-row-layoutroot-class-name3 {
+  padding-bottom: var(--dl-layout-space-xl);
+  background-color: var(--dl-color-backgrounds-grey-1);
+}
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+@media(max-width: 1280px) {
+  .image-banner-with-slot-row-layout-max-width {
+    flex-direction: column-reverse;
+  }
+}
+ 
+@media(max-width: 800px) {
+  .image-banner-with-slot-row-layout-max-width {
+    align-items: flex-start;
+  }
+}

@@ -1,0 +1,281 @@
+.burp-suite-professional-workflow-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.burp-suite-professional-workflow-text10 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text11 {
+  color: var(--dl-color-text-header-white);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text12 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text13 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text14 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text15 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text16 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text20 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text21 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-link10 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-workflow-text28 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text29 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text30 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text31 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-link11 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-workflow-text34 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-link12 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-workflow-text37 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text38 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-link13 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-workflow-link14 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-workflow-text42 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text43 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text44 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.burp-suite-professional-workflow-text45 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text46 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text47 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text48 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text49 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-link15 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-workflow-text51 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text52 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-link16 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-workflow-text55 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-link17 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-workflow-text58 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-link18 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-workflow-text61 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text62 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.burp-suite-professional-workflow-text63 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text64 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text65 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text66 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text67 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-link19 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-workflow-text70 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text71 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text72 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text73 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text74 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text75 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.burp-suite-professional-workflow-text76 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text77 {
+  color: var(--dl-color-text-header-white);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text78 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text79 {
+  color: var(--dl-color-text-white);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-description1 {
+  color: var(--dl-color-text-body-grey);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-description2 {
+  color: var(--dl-color-text-body-grey);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text80 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text81 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text82 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-description3 {
+  color: var(--dl-color-text-body-grey);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-workflow-text83 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.burp-suite-professional-workflow-text84 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.burp-suite-professional-workflow-text85 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+@media(max-width: 800px) {
+  .burp-suite-professional-workflow-description1 {
+    color: var(--dl-color-text-body-grey);
+  }
+}

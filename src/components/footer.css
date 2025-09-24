@@ -1,0 +1,220 @@
+.footer-footer {
+  color: var(--dl-color-text-body-grey);
+  position: relative;
+  border-top: var(--dl-others-borders-border-orange);
+  border-top-width: 3px;
+}
+ 
+.footer-max-width {
+  flex-wrap: wrap;
+}
+ 
+.footer-link10 {
+  text-decoration: none;
+}
+ 
+.footer-link11 {
+  text-decoration: none;
+}
+ 
+.footer-link12 {
+  text-decoration: none;
+}
+ 
+.footer-link13 {
+  text-decoration: none;
+}
+ 
+.footer-link14 {
+  text-decoration: none;
+}
+ 
+.footer-link15 {
+  text-decoration: none;
+}
+ 
+.footer-link16 {
+  text-decoration: none;
+}
+ 
+.footer-link17 {
+  text-decoration: none;
+}
+ 
+.footer-link18 {
+  text-decoration: none;
+}
+ 
+.footer-link19 {
+  text-decoration: none;
+}
+ 
+.footer-link20 {
+  text-decoration: none;
+}
+ 
+.footer-link21 {
+  text-decoration: none;
+}
+ 
+.footer-link22 {
+  text-decoration: none;
+}
+ 
+.footer-link23 {
+  text-decoration: none;
+}
+ 
+.footer-link24 {
+  text-decoration: none;
+}
+ 
+.footer-link25 {
+  text-decoration: none;
+}
+ 
+.footer-link26 {
+  text-decoration: none;
+}
+ 
+.footer-link27 {
+  text-decoration: none;
+}
+ 
+.footer-link28 {
+  text-decoration: none;
+}
+ 
+.footer-link29 {
+  text-decoration: none;
+}
+ 
+.footer-column6 {
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.footer-image {
+  width: 150px;
+  max-height: 40px;
+  object-fit: cover;
+  text-decoration: none;
+}
+ 
+.footer-text {
+  order: 2;
+}
+ 
+.footer-link31 {
+  white-space: nowrap;
+}
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+@media(max-width: 1280px) {
+  .footer-column6 {
+    gap: var(--dl-layout-space-m);
+    align-items: center;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
+  .footer-image {
+    order: 2;
+  }
+  .footer-text {
+    order: 1;
+  }
+}
+ 
+@media(max-width: 390px) {
+  .footer-column6 {
+    flex-direction: column-reverse;
+  }
+  .footer-text {
+    order: 0;
+  }
+}

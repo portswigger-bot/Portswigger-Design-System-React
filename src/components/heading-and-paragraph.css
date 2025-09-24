@@ -1,0 +1,670 @@
+.heading-and-paragraph-top-label {
+  fill: var(--dl-color-core-orange-1);
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.heading-and-paragraph-top-img {
+  width: 60px;
+  object-fit: cover;
+}
+ 
+.heading-and-paragraph-container {
+  display: contents;
+}
+ 
+.heading-and-paragraph-text1 {
+  color: var(--dl-color-core-navy-1);
+}
+ 
+.heading-and-paragraph-text2 {
+  color: var(--dl-color-core-navy-1);
+}
+ 
+.heading-and-paragraph-text3 {
+  color: var(--dl-color-core-navy-1);
+}
+ 
+.heading-and-paragraph-text5 {
+  display: inline-block;
+}
+ 
+.heading-and-paragraph-text6 {
+  display: inline-block;
+}
+ 
+.heading-and-paragraph-text7 {
+  display: inline-block;
+}
+ 
+.heading-and-paragraphroot-class-name {
+  padding: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name1 {
+  padding: var(--dl-layout-space-m);
+}
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+.heading-and-paragraphroot-class-name30 {
+  padding-top: var(--dl-layout-space-l);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-l);
+}
+ 
+
+ 
+.heading-and-paragraphroot-class-name32 {
+  padding: var(--dl-layout-space-m);
+  min-height: 500px;
+  background-size: cover;
+  background-color: var(--dl-color-core-navy-2);
+  background-image: url("/Pages/Future of AppSec/webinar-background-200h.webp");
+}
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+.heading-and-paragraphroot-class-name43 {
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name44 {
+  align-self: center;
+}
+ 
+.heading-and-paragraphroot-class-name45 {
+  align-self: center;
+}
+ 
+
+ 
+.heading-and-paragraphroot-class-name47 {
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name48 {
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name49 {
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name50 {
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name51 {
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name52 {
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name53 {
+  margin-top: -2rem;
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name54 {
+  margin-top: -2rem;
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name55 {
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name56 {
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name57 {
+  margin-top: -2rem;
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name58 {
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name59 {
+  margin-top: -2rem;
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name60 {
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name61 {
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name62 {
+  margin-top: -1rem;
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name63 {
+  padding-top: var(--dl-layout-space-xxl);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+.heading-and-paragraphroot-class-name64 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-xl);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+.heading-and-paragraphroot-class-name65 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-xl);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+.heading-and-paragraphroot-class-name66 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name67 {
+  padding-top: var(--dl-layout-space-l);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+.heading-and-paragraphroot-class-name83 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+.heading-and-paragraphroot-class-name136 {
+  margin-top: var(--dl-layout-space-l);
+}
+ 
+.heading-and-paragraphroot-class-name137 {
+  padding-top: var(--dl-layout-space-m);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+.heading-and-paragraphroot-class-name138 {
+  padding-top: var(--dl-layout-space-xxl);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name139 {
+  padding-top: var(--dl-layout-space-m);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name140 {
+  padding-top: var(--dl-layout-space-l);
+}
+ 
+.heading-and-paragraphroot-class-name141 {
+  padding-top: var(--dl-layout-space-l);
+}
+ 
+.heading-and-paragraphroot-class-name142 {
+  padding-top: var(--dl-layout-space-l);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-m);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+.heading-and-paragraphroot-class-name143 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: 0px;
+}
+ 
+.heading-and-paragraphroot-class-name144 {
+  padding-top: var(--dl-layout-space-m);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name145 {
+  padding-top: var(--dl-layout-space-l);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-m);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+.heading-and-paragraphroot-class-name146 {
+  padding-top: var(--dl-layout-space-l);
+}
+ 
+.heading-and-paragraphroot-class-name147 {
+  padding-top: var(--dl-layout-space-l);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-m);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+.heading-and-paragraphroot-class-name148 {
+  padding-top: var(--dl-layout-space-l);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-m);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+.heading-and-paragraphroot-class-name149 {
+  padding-top: var(--dl-layout-space-l);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+.heading-and-paragraphroot-class-name150 {
+  padding-top: var(--dl-layout-space-m);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name151 {
+  padding-top: var(--dl-layout-space-l);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+.heading-and-paragraphroot-class-name152 {
+  padding-top: var(--dl-layout-space-l);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+.heading-and-paragraphroot-class-name153 {
+  padding-top: var(--dl-layout-space-l);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-m);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+
+ 
+.heading-and-paragraphroot-class-name155 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  background-color: var(--dl-color-backgrounds-grey-1);
+}
+ 
+.heading-and-paragraphroot-class-name156 {
+  padding-top: var(--dl-layout-space-l);
+}
+ 
+.heading-and-paragraphroot-class-name157 {
+  padding-top: var(--dl-layout-space-m);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name158 {
+  padding-top: var(--dl-layout-space-m);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name159 {
+  padding-top: var(--dl-layout-space-xl);
+  background-color: var(--dl-color-backgrounds-grey-2);
+}
+ 
+.heading-and-paragraphroot-class-name160 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name161 {
+  padding-top: var(--dl-layout-space-l);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-l);
+}
+ 
+.heading-and-paragraphroot-class-name162 {
+  padding-top: var(--dl-layout-space-xl);
+  background-color: var(--dl-color-backgrounds-grey-2);
+}
+ 
+.heading-and-paragraphroot-class-name163 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-bottom: var(--dl-layout-space-s);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+
+ 
+
+ 
+
+ 
+.heading-and-paragraphroot-class-name167 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-bottom: var(--dl-layout-space-s);
+  background-color: var(--dl-color-backgrounds-light-teal);
+}
+ 
+
+ 
+
+ 
+
+ 
+.heading-and-paragraphroot-class-name171 {
+  padding-top: var(--dl-layout-space-l);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+
+ 
+
+ 
+
+ 
+.heading-and-paragraphroot-class-name175 {
+  padding-top: var(--dl-layout-space-l);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-l);
+}
+ 
+.heading-and-paragraphroot-class-name176 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name177 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name178 {
+  padding-top: var(--dl-layout-space-l);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-l);
+}
+ 
+.heading-and-paragraphroot-class-name179 {
+  padding-top: var(--dl-layout-space-l);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-l);
+}
+ 
+.heading-and-paragraphroot-class-name180 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+.heading-and-paragraphroot-class-name181 {
+  padding-top: var(--dl-layout-space-xl);
+  padding-left: var(--dl-layout-space-m);
+  padding-right: var(--dl-layout-space-m);
+}
+ 
+
+ 
+.heading-and-paragraphroot-class-name183 {
+  fill: var(--dl-color-text-header-navy);
+  color: var(--dl-color-text-header-navy);
+  align-self: flex-start;
+}
+ 
+
+ 
+
+ 
+

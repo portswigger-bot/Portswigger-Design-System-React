@@ -1,0 +1,139 @@
+.banner-with-cta-and-check-list-container {
+  display: contents;
+}
+ 
+.banner-with-cta-and-check-list-text1 {
+  color: var(--dl-color-core-navy-1);
+}
+ 
+.banner-with-cta-and-check-list-text2 {
+  color: var(--dl-color-core-navy-1);
+}
+ 
+.banner-with-cta-and-check-list-text3 {
+  color: var(--dl-color-core-navy-1);
+}
+ 
+.banner-with-cta-and-check-list-big-image {
+  width: 80%;
+  object-fit: cover;
+}
+ 
+.banner-with-cta-and-check-list-component1 {
+  text-decoration: none;
+}
+ 
+.banner-with-cta-and-check-list-text5 {
+  display: inline-block;
+}
+ 
+.banner-with-cta-and-check-list-text6 {
+  display: inline-block;
+}
+ 
+.banner-with-cta-and-check-list-text7 {
+  display: inline-block;
+}
+ 
+.banner-with-cta-and-check-listroot-class-name {
+  padding-top: var(--dl-layout-space-l);
+  padding-bottom: var(--dl-layout-space-l);
+}
+ 
+.banner-with-cta-and-check-listroot-class-name1 {
+  fill: var(--dl-color-core-white);
+  color: var(--dl-color-core-white);
+  padding-top: var(--dl-layout-space-xl);
+  padding-bottom: var(--dl-layout-space-xl);
+  background-color: var(--dl-color-core-navy-1);
+}
+ 
+.banner-with-cta-and-check-listroot-class-name2 {
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-core-navy-1);
+}
+ 
+.banner-with-cta-and-check-listroot-class-name3 {
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-core-navy-1);
+}
+ 
+.banner-with-cta-and-check-listroot-class-name4 {
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-core-navy-1);
+}
+ 
+.banner-with-cta-and-check-listroot-class-name6 {
+  padding-top: var(--dl-layout-space-l);
+  padding-bottom: var(--dl-layout-space-l);
+  background-color: var(--dl-color-backgrounds-deep-indigo-blue);
+}
+ 
+.banner-with-cta-and-check-listroot-class-name7 {
+  padding-top: var(--dl-layout-space-l);
+  padding-bottom: var(--dl-layout-space-l);
+  background-color: var(--dl-color-backgrounds-deep-indigo-blue);
+}
+ 
+.banner-with-cta-and-check-listroot-class-name8 {
+  padding-top: var(--dl-layout-space-l);
+  padding-bottom: var(--dl-layout-space-l);
+  background-color: var(--dl-color-backgrounds-deep-indigo-blue);
+}
+ 
+.banner-with-cta-and-check-listroot-class-name9 {
+  fill: var(--dl-color-text-white);
+  color: var(--dl-color-text-white);
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-backgrounds-deep-indigo-blue);
+}
+ 
+.banner-with-cta-and-check-listroot-class-name10 {
+  padding-top: var(--dl-layout-space-l);
+  padding-bottom: var(--dl-layout-space-l);
+  background-color: var(--dl-color-backgrounds-deep-indigo-blue);
+}
+ 
+.banner-with-cta-and-check-listroot-class-name11 {
+  fill: var(--dl-color-text-white);
+  color: var(--dl-color-text-white);
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-backgrounds-deep-indigo-blue);
+}
+ 
+.banner-with-cta-and-check-listroot-class-name12 {
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-backgrounds-deep-indigo-blue);
+}
+ 
+.banner-with-cta-and-check-listroot-class-name13 {
+  fill: var(--dl-color-text-white);
+  color: var(--dl-color-text-white);
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-backgrounds-deep-indigo-blue);
+}
+ 
+.banner-with-cta-and-check-listroot-class-name14 {
+  fill: var(--dl-color-text-white);
+  color: var(--dl-color-text-white);
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-backgrounds-deep-indigo-blue);
+}
+ 
+.banner-with-cta-and-check-listroot-class-name15 {
+  fill: var(--dl-color-text-white);
+  color: var(--dl-color-text-white);
+  padding-top: var(--dl-layout-space-xxl);
+  padding-bottom: var(--dl-layout-space-xxl);
+  background-color: var(--dl-color-backgrounds-deep-indigo-blue);
+}
+ 
+

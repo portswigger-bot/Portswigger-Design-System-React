@@ -1,0 +1,301 @@
+.navigation-logo-desktop {
+  width: 249px;
+  object-fit: contain;
+}
+ 
+.navigation-login1 {
+  text-decoration: none;
+}
+ 
+.navigation-text10 {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 400;
+}
+ 
+.navigation-links {
+  min-height: 35px;
+  padding-right: var(--dl-layout-space-xs);
+  justify-content: flex-end;
+}
+ 
+.navigation-text11 {
+  display: inline-block;
+}
+ 
+.navigation-text12 {
+  display: inline-block;
+}
+ 
+.navigation-text13 {
+  display: inline-block;
+}
+ 
+.navigation-text14 {
+  display: inline-block;
+}
+ 
+.navigation-text15 {
+  display: inline-block;
+}
+ 
+.navigation-text16 {
+  display: inline-block;
+}
+ 
+.navigation-text17 {
+  display: inline-block;
+}
+ 
+.navigation-text18 {
+  display: inline-block;
+}
+ 
+.navigation-link12 {
+  transition: 0.3s;
+  padding-top: var(--dl-layout-space-xxs);
+  border-right: 1px solid var(--dl-color-core-orange-1);
+  padding-left: var(--dl-layout-space-s);
+  padding-right: var(--dl-layout-space-s);
+  padding-bottom: var(--dl-layout-space-xxs);
+  text-decoration: none;
+}
+ 
+.navigation-link12:hover {
+  fill: var(--dl-color-core-orange-1);
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.navigation-link13 {
+  transition: 0.3s;
+  padding-top: var(--dl-layout-space-xxs);
+  border-right: 1px solid var(--dl-color-core-orange-1);
+  padding-left: var(--dl-layout-space-s);
+  padding-right: var(--dl-layout-space-s);
+  padding-bottom: var(--dl-layout-space-xxs);
+  text-decoration: none;
+}
+ 
+.navigation-link13:hover {
+  fill: var(--dl-color-core-orange-1);
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.navigation-text19 {
+  display: inline-block;
+}
+ 
+.navigation-text20 {
+  display: inline-block;
+}
+ 
+.navigation-text21 {
+  display: inline-block;
+}
+ 
+.navigation-text22 {
+  display: inline-block;
+}
+ 
+.navigation-spacer {
+  width: 100%;
+  height: 10px;
+}
+ 
+.navigation-ul1 {
+  background-color: var(--dl-color-backgrounds-white);
+}
+ 
+.navigation-mobile-menu {
+  z-index: 100;
+}
+ 
+.navigation-login2 {
+  text-decoration: none;
+}
+ 
+.navigation-text23 {
+  display: inline-block;
+}
+ 
+.navigation-trigger1 {
+  cursor: pointer;
+}
+ 
+.navigation-summary1 {
+  display: grid;
+}
+ 
+.navigation-icon-container1 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.navigation-content1 {
+  top: calc(100% + 3px);
+  z-index: 101;
+  box-shadow: var(--dl-others-shadows-shadow-box-10-large);
+  background-color: var(--dl-color-backgrounds-white);
+}
+ 
+.navigation-ul2 {
+  background-color: var(--dl-color-backgrounds-white);
+}
+ 
+.navigation-accordion2 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.navigation-summary2 {
+  display: flex;
+}
+ 
+.navigation-icon-container2 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.navigation-accordion3 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.navigation-summary3 {
+  display: flex;
+  transition: 0.3s;
+}
+ 
+.navigation-icon-container3 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.navigation-container16 {
+  text-decoration: none;
+}
+ 
+.navigation-container17 {
+  text-decoration: none;
+}
+ 
+.navigation-accordion4 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.navigation-summary4 {
+  display: flex;
+}
+ 
+.navigation-icon-container4 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.navigation-accordion5 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.navigation-summary5 {
+  display: flex;
+}
+ 
+.navigation-icon-container5 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.navigation-text31 {
+  width: 100%;
+  cursor: pointer;
+  z-index: 2;
+  position: fixed;
+}
+ 
+.navigation-container22 {
+  display: none;
+}
+ 
+.navigation-container23 {
+  display: contents;
+}
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+@media(max-width: 1280px) {
+  .navigation-desktop-links-container {
+    display: none;
+  }
+}
+ 
+@media(max-width: 390px) {
+  .navigation-logo-desktop {
+    display: none;
+  }
+  .navigation-text31 {
+    display: none;
+  }
+}

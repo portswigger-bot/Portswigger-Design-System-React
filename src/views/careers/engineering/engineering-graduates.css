@@ -1,0 +1,718 @@
+.engineering-graduates-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.engineering-graduates-text100 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text101 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text102 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text103 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text104 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-section10 {
+  padding-top: var(--dl-layout-space-m);
+  padding-bottom: var(--dl-layout-space-m);
+}
+ 
+.engineering-graduates-max-width10 {
+  padding-left: var(--dl-layout-space-xl);
+  padding-right: var(--dl-layout-space-xl);
+}
+ 
+.engineering-graduates-text105 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text106 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text107 {
+  display: inline-block;
+  font-size: 24px;
+}
+ 
+.engineering-graduates-section11 {
+  background-color: var(--dl-color-core-grey-6);
+}
+ 
+.engineering-graduates-check-list {
+  gap: var(--dl-layout-space-xs);
+  position: relative;
+}
+ 
+.engineering-graduates-text108 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text109 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text110 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-container2 {
+  gap: var(--dl-layout-space-xxl);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.engineering-graduates-list1 {
+  position: relative;
+  align-self: flex-start;
+}
+ 
+.engineering-graduates-text112 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text115 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text118 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text121 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-button-link1 {
+  margin-top: auto;
+  text-decoration: none;
+}
+ 
+.engineering-graduates-text124 {
+  white-space: nowrap;
+}
+ 
+.engineering-graduates-list2 {
+  position: relative;
+}
+ 
+.engineering-graduates-text126 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text129 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text131 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text133 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text136 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-button-link2 {
+  margin-top: auto;
+}
+ 
+.engineering-graduates-link2 {
+  white-space: nowrap;
+  text-decoration: none;
+}
+ 
+.engineering-graduates-text138 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text139 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text140 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text142 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-section13 {
+  background-color: var(--dl-color-core-grey-6);
+}
+ 
+.engineering-graduates-text144 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text145 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text146 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text147 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text148 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text149 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text150 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text151 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text153 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text154 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text156 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text157 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text159 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text160 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text162 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text163 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text164 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text165 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text166 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text167 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-section15 {
+  align-self: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: var(--dl-color-core-grey-6);
+}
+ 
+.engineering-graduates-max-width15 {
+  flex-direction: row;
+}
+ 
+.engineering-graduates-text168 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text169 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text170 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text171 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-blue-filter {
+  opacity: 0.8;
+  z-index: 1;
+  background-color: var(--dl-color-core-enterprise-2);
+}
+ 
+.engineering-graduates-max-width16 {
+  z-index: 2;
+}
+ 
+.engineering-graduates-text172 {
+  color: var(--dl-color-text-header-white);
+}
+ 
+.engineering-graduates-image1 {
+  object-fit: cover;
+  object-position: top;
+}
+ 
+.engineering-graduates-text173 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text174 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text176 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text177 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text179 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text180 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text182 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text183 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text185 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text186 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text188 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text189 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text191 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text192 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text193 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text194 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-section17 {
+  background-color: var(--dl-color-core-grey-6);
+}
+ 
+.engineering-graduates-text195 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text198 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text199 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text200 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text201 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text203 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text204 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text206 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text207 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text209 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text210 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text212 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text213 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text215 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text216 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text218 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text219 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text220 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text221 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text222 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text223 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text225 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text226 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text228 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text229 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text231 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text232 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text234 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text235 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text237 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text238 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text240 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text241 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text242 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text243 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-max-width19 {
+  gap: 0;
+}
+ 
+.engineering-graduates-text244 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text247 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text248 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-item1-content1 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text249 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-item2-content1 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text250 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text253 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text254 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-item4-content1 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text255 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text256 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text257 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-item6-content1 {
+  fill: var(--dl-color-text-body-grey);
+  color: var(--dl-color-text-body-grey);
+  display: inline-block;
+}
+ 
+.engineering-graduates-text258 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-item1-content2 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text261 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-item2-content2 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text262 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text265 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text268 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-item4-content2 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text281 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text282 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text283 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-item6-content2 {
+  fill: var(--dl-color-text-body-grey);
+  color: var(--dl-color-text-body-grey);
+  display: inline-block;
+}
+ 
+.engineering-graduates-text284 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text285 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text286 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text287 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text291 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text295 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text299 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text303 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text305 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-text308 {
+  font-weight: 700;
+}
+ 
+.engineering-graduates-section20 {
+  background-color: var(--dl-color-core-grey-6);
+}
+ 
+.engineering-graduates-text310 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text311 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-text312 {
+  display: inline-block;
+}
+ 
+.engineering-graduates-image2 {
+  width: 200px;
+  object-fit: cover;
+  border-radius: var(--dl-layout-radius-circle);
+}
+ 
+.engineering-graduates-image3 {
+  width: 200px;
+  object-fit: cover;
+  border-radius: var(--dl-layout-radius-circle);
+}
+ 
+.engineering-graduates-image4 {
+  width: 200px;
+  object-fit: cover;
+  border-radius: var(--dl-layout-radius-circle);
+}
+ 
+.engineering-graduates-component34 {
+  text-decoration: none;
+}
+ 
+.engineering-graduates-text325 {
+  display: inline-block;
+}
+ 
+@media(max-width: 800px) {
+  .engineering-graduates-main {
+    gap: var(--dl-layout-space-xxs);
+  }
+  .engineering-graduates-max-width10 {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: var(--dl-layout-space-m);
+  }
+  .engineering-graduates-container2 {
+    gap: var(--dl-layout-space-l);
+    flex-direction: column;
+  }
+  .engineering-graduates-max-width15 {
+    flex-direction: column;
+  }
+}
+ 
+@media(max-width: 390px) {
+  .engineering-graduates-max-width10 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .engineering-graduates-container2 {
+    flex-direction: column;
+  }
+}

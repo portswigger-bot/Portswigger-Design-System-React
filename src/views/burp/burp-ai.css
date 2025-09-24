@@ -1,0 +1,288 @@
+.burp-ai-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.burp-ai-text10 {
+  display: inline-block;
+}
+ 
+.burp-ai-text11 {
+  color: var(--dl-color-core-white);
+  display: inline-block;
+}
+ 
+.burp-ai-text12 {
+  display: inline-block;
+}
+ 
+.burp-ai-text15 {
+  display: inline-block;
+}
+ 
+.burp-ai-text16 {
+  display: inline-block;
+}
+ 
+.burp-ai-text17 {
+  color: var(--dl-color-core-white);
+  display: inline-block;
+}
+ 
+.burp-ai-text21 {
+  font-weight: 700;
+}
+ 
+.burp-ai-text22 {
+  display: inline-block;
+}
+ 
+.burp-ai-text23 {
+  display: inline-block;
+}
+ 
+.burp-ai-text24 {
+  display: inline-block;
+}
+ 
+.burp-ai-text25 {
+  display: inline-block;
+}
+ 
+.burp-ai-text28 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.burp-ai-text29 {
+  color: var(--dl-color-text-header-white);
+  display: inline-block;
+}
+ 
+.burp-ai-text30 {
+  display: inline-block;
+}
+ 
+.burp-ai-text31 {
+  color: var(--dl-color-text-white);
+  display: inline-block;
+}
+ 
+.burp-ai-text35 {
+  display: inline-block;
+}
+ 
+.burp-ai-text36 {
+  display: inline-block;
+}
+ 
+.burp-ai-text37 {
+  display: inline-block;
+}
+ 
+.burp-ai-text38 {
+  display: inline-block;
+}
+ 
+.burp-ai-text39 {
+  display: inline-block;
+}
+ 
+.burp-ai-text42 {
+  color: var(--dl-color-text-white);
+  display: inline-block;
+}
+ 
+.burp-ai-text45 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.burp-ai-text46 {
+  color: var(--dl-color-text-white);
+  display: inline-block;
+}
+ 
+.burp-ai-text47 {
+  display: inline-block;
+}
+ 
+.burp-ai-text48 {
+  display: inline-block;
+}
+ 
+.burp-ai-text49 {
+  display: inline-block;
+}
+ 
+.burp-ai-text50 {
+  display: inline-block;
+}
+ 
+.burp-ai-text51 {
+  color: var(--dl-color-text-white);
+  display: inline-block;
+}
+ 
+.burp-ai-text54 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.burp-ai-text55 {
+  color: var(--dl-color-text-white);
+  display: inline-block;
+}
+ 
+.burp-ai-text56 {
+  display: inline-block;
+}
+ 
+.burp-ai-text57 {
+  display: inline-block;
+}
+ 
+.burp-ai-text58 {
+  display: inline-block;
+}
+ 
+.burp-ai-text64 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.burp-ai-text67 {
+  display: inline-block;
+}
+ 
+.burp-ai-text68 {
+  display: inline-block;
+}
+ 
+.burp-ai-text69 {
+  display: inline-block;
+}
+ 
+.burp-ai-text73 {
+  color: var(--dl-color-text-header-white);
+  display: inline-block;
+}
+ 
+.burp-ai-text74 {
+  display: inline-block;
+}
+ 
+.burp-ai-text75 {
+  color: var(--dl-color-text-white);
+  display: inline-block;
+}
+ 
+.burp-ai-text76 {
+  display: inline-block;
+}
+ 
+.burp-ai-text77 {
+  display: inline-block;
+}
+ 
+.burp-ai-text78 {
+  display: inline-block;
+}
+ 
+.burp-ai-item1-content {
+  display: inline-block;
+}
+ 
+.burp-ai-text79 {
+  display: inline-block;
+}
+ 
+.burp-ai-item2-content {
+  display: inline-block;
+}
+ 
+.burp-ai-text80 {
+  display: inline-block;
+}
+ 
+.burp-ai-text81 {
+  display: inline-block;
+}
+ 
+.burp-ai-text82 {
+  display: inline-block;
+}
+ 
+.burp-ai-item4-content {
+  display: inline-block;
+}
+ 
+.burp-ai-text83 {
+  display: inline-block;
+}
+ 
+.burp-ai-text84 {
+  display: inline-block;
+}
+ 
+.burp-ai-text85 {
+  display: inline-block;
+}
+ 
+.burp-ai-item6-content {
+  fill: var(--dl-color-text-body-grey);
+  color: var(--dl-color-text-body-grey);
+  display: inline-block;
+}
+ 
+.burp-ai-link1 {
+  text-decoration: underline;
+}
+ 
+.burp-ai-link2 {
+  text-decoration: underline;
+}
+ 
+.burp-ai-text92 {
+  display: inline-block;
+}
+ 
+.burp-ai-component31 {
+  text-decoration: none;
+}
+ 
+.burp-ai-text93 {
+  display: inline-block;
+}
+ 
+.burp-ai-text94 {
+  display: inline-block;
+}
+ 
+.burp-ai-text95 {
+  display: inline-block;
+}
+ 
+.burp-ai-text96 {
+  display: inline-block;
+}
+ 
+.burp-ai-text102 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+@media(max-width: 1536px) {
+  .burp-ai-text21 {
+    font-weight: 700;
+  }
+}
+ 
+@media(max-width: 1280px) {
+  .burp-ai-text21 {
+    font-weight: 700;
+  }
+}

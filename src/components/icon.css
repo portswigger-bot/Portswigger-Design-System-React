@@ -1,0 +1,502 @@
+.icon-container {
+  stroke: currentColor;
+  display: flex;
+  min-width: 24px;
+  transition: 0.3s;
+  flex-direction: column;
+  pointer-events: none;
+}
+ 
+.icon-logo-portswigger {
+  stroke: none;
+}
+ 
+.icon-logo-burp-suite {
+  stroke: none;
+}
+ 
+.icon-logo-enterprise {
+  stroke: none;
+}
+ 
+.icon-logo-pro {
+  stroke: none;
+}
+ 
+.icon-logo-community {
+  stroke: none;
+}
+ 
+.icon-logo-charm {
+  stroke: none;
+}
+ 
+.icon-logo-web-security-academy {
+  stroke: none;
+}
+ 
+.icon-twitter {
+  fill: currentColor;
+  stroke: currentColor;
+}
+ 
+.icon-discord {
+  fill: currentColor;
+  stroke: currentColor;
+}
+ 
+.icon-app-security {
+  height: 60px;
+  object-fit: contain;
+  aspect-ratio: 1/1;
+}
+ 
+.icon-catch-bugs {
+  height: 60px;
+  object-fit: contain;
+  aspect-ratio: 1/1;
+}
+ 
+.icon-secure-code {
+  height: 60px;
+  object-fit: contain;
+  aspect-ratio: 1/1;
+}
+ 
+.icon-discover {
+  height: 60px;
+  object-fit: contain;
+  aspect-ratio: 1/1;
+}
+ 
+.icon-attack {
+  height: 60px;
+  object-fit: contain;
+  aspect-ratio: 1/1;
+}
+ 
+.icon-report {
+  height: 60px;
+  object-fit: contain;
+  aspect-ratio: 1/1;
+}
+ 
+.iconroot-class-name {
+  width: 24px;
+}
+ 
+.iconroot-class-name1 {
+  width: 48px;
+}
+ 
+.iconroot-class-name2 {
+  width: 64px;
+}
+ 
+.iconroot-class-name3 {
+  width: 24px;
+  stroke: red;
+}
+ 
+.iconroot-class-name4 {
+  width: 48px;
+  stroke: blue;
+}
+ 
+.iconroot-class-name5 {
+  width: 64px;
+  stroke: green;
+}
+ 
+.iconroot-class-name6 {
+  width: 24px;
+}
+ 
+.iconroot-class-name7 {
+  width: 48px;
+}
+ 
+.iconroot-class-name8 {
+  width: 64px;
+}
+ 
+.iconroot-class-name9 {
+  width: 24px;
+  stroke: red;
+}
+ 
+.iconroot-class-name10 {
+  width: 48px;
+  stroke: blue;
+}
+ 
+.iconroot-class-name11 {
+  width: 64px;
+  stroke: green;
+}
+ 
+.iconroot-class-name12 {
+  width: 24px;
+  stroke: red;
+}
+ 
+.iconroot-class-name13 {
+  width: 48px;
+  stroke: blue;
+}
+ 
+.iconroot-class-name14 {
+  width: 64px;
+  stroke: green;
+}
+ 
+
+ 
+.iconroot-class-name16 {
+  display: none;
+}
+ 
+.iconroot-class-name17 {
+  padding: 4px;
+}
+ 
+.iconroot-class-name18 {
+  top: 2px;
+  right: 10px;
+  width: 13px;
+  position: absolute;
+}
+ 
+.iconroot-class-name19 {
+  width: 13px;
+}
+ 
+.iconroot-class-name20 {
+  width: 16px;
+}
+ 
+.iconroot-class-name21 {
+  width: 47px;
+}
+ 
+.iconroot-class-name22 {
+  padding: 4px;
+}
+ 
+.iconroot-class-name23 {
+  padding: 4px;
+}
+ 
+.iconroot-class-name24 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name25 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name26 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name27 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name28 {
+  width: 16px;
+  min-width: 16px;
+}
+ 
+.iconroot-class-name29 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name30 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name31 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name32 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name33 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name34 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name35 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name36 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name37 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name38 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name39 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name40 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name41 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name42 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name43 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name44 {
+  opacity: 0;
+  visibility: hidden;
+  grid-column: 1;
+  grid-row-start: 1;
+}
+ 
+.iconroot-class-name45 {
+  grid-column: 1;
+  grid-row-start: 1;
+}
+ 
+
+ 
+
+ 
+
+ 
+.iconroot-class-name49 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name50 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name51 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name52 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name53 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name54 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name55 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name56 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name57 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name58 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name59 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name60 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name61 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name62 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name63 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+
+ 
+.iconroot-class-name65 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name66 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name67 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name68 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name69 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name70 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name71 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name72 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name73 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name74 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name75 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name76 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name77 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name78 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+
+ 
+.iconroot-class-name80 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name81 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name82 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name83 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name84 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name85 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name86 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name87 {
+  fill: var(--dl-color-core-grey-1);
+  color: var(--dl-color-core-grey-1);
+  padding: 4px;
+  max-width: 24px;
+  max-height: 24px;
+  min-height: 24px;
+  border-radius: 50%;
+  background-color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name88 {
+  fill: var(--dl-color-core-grey-1);
+  color: var(--dl-color-core-grey-1);
+  padding: 4px;
+  max-width: 24px;
+  max-height: 24px;
+  min-height: 24px;
+  border-radius: 50%;
+  background-color: var(--dl-color-core-orange-1);
+}
+ 
+
+ 
+
+ 
+
+ 
+.iconroot-class-name92 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name93 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name94 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+.iconroot-class-name100 {
+  fill: var(--dl-color-core-orange-1);
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.iconroot-class-name101 {
+  max-height: 60px;
+  margin-bottom: var(--dl-layout-space-xs);
+}
+ 
+@media(max-width: 390px) {
+  .iconroot-class-name16 {
+    width: 41px;
+    display: flex;
+  }
+}

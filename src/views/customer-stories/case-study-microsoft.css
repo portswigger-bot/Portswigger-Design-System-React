@@ -1,0 +1,362 @@
+.case-study-microsoft-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.case-study-microsoft-text100 {
+  color: var(--dl-color-text-header-white);
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text101 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text102 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text103 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text104 {
+  color: var(--dl-color-text-white);
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text105 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text106 {
+  color: var(--dl-color-core-navy-1);
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text107 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text108 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text109 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text110 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text111 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-link10 {
+  text-decoration: underline;
+}
+ 
+.case-study-microsoft-link11 {
+  text-decoration: underline;
+}
+ 
+.case-study-microsoft-text118 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text119 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text120 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text121 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text122 {
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text124 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text125 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text126 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text127 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text128 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text129 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text130 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text131 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text132 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text133 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text134 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text135 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text136 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text137 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text138 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-link12 {
+  text-decoration: underline;
+}
+ 
+.case-study-microsoft-link13 {
+  text-decoration: underline;
+}
+ 
+.case-study-microsoft-text142 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text143 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text144 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text145 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text146 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text147 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text152 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text153 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text154 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-link14 {
+  text-decoration: underline;
+}
+ 
+.case-study-microsoft-link15 {
+  text-decoration: underline;
+}
+ 
+.case-study-microsoft-text158 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text159 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text160 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text161 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text162 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text163 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-link16 {
+  text-decoration: underline;
+}
+ 
+.case-study-microsoft-link17 {
+  text-decoration: underline;
+}
+ 
+.case-study-microsoft-text167 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text168 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text169 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text170 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text171 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text172 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-link18 {
+  text-decoration: underline;
+}
+ 
+.case-study-microsoft-link19 {
+  text-decoration: underline;
+}
+ 
+.case-study-microsoft-link20 {
+  text-decoration: underline;
+}
+ 
+.case-study-microsoft-text180 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text181 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text182 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-link21 {
+  text-decoration: underline;
+}
+ 
+.case-study-microsoft-text188 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text189 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text190 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text191 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text192 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.case-study-microsoft-text193 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text194 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text195 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text196 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text197 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text198 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-text199 {
+  display: inline-block;
+}
+ 
+.case-study-microsoft-link22 {
+  text-decoration: underline;
+}
+ 
+.case-study-microsoft-component32 {
+  text-decoration: none;
+}
+ 
+.case-study-microsoft-text202 {
+  display: inline-block;
+}

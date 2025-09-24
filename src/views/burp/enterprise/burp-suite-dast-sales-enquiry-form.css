@@ -1,0 +1,776 @@
+.burp-suite-dast-sales-enquiry-form-container10 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-container11 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-layout-space-oneandhalfunits);
+  flex-direction: row;
+  padding-bottom: var(--dl-layout-space-oneandhalfunits);
+  justify-content: center;
+  background-color: #1A1A39;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-link {
+  display: contents;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-image {
+  width: 253px;
+  height: 40px;
+  object-fit: cover;
+  text-decoration: none;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-hero-form {
+  height: 100%;
+  position: relative;
+  min-height: 1080px;
+  padding-top: 0px;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  padding-bottom: 4rem;
+  background-size: cover;
+  background-color: #0c0329;
+  background-image: 15579426-acb1-4541-8aa4-f550fa42613d;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-max-width {
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-illustration {
+  width: 100%;
+  justify-content: center;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-form {
+  width: 900px;
+  display: flex;
+  padding: 30px;
+  align-self: center;
+  min-height: 600px;
+  align-items: flex-start;
+  border-radius: 18px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ffffff;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-demo-request-form1 {
+  display: none;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-demo-request-form2 {
+  display: none;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text10 {
+  fill: var(--dl-color-portswigger-primary);
+  color: var(--dl-color-portswigger-primary);
+  font-size: 2rem;
+  align-self: center;
+  font-family: "Arial";
+  line-height: 100%;
+  letter-spacing: -2px;
+  padding-bottom: 1.5rem;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-container13 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  min-height: 400px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-container14 {
+  width: 100%;
+  display: flex;
+  align-self: center;
+  max-height: 100px;
+  min-height: 100px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-container15 {
+  gap: 5px;
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-self: flex-end;
+  max-height: 100px;
+  min-height: 100px;
+  align-items: flex-start;
+  padding-right: 20px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text11 {
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-textinput1 {
+  width: 100%;
+  min-height: 45px;
+  border-color: Blue1 (Backgrounds);
+  border-radius: 12px;
+  background-color: var(--dl-color-backgrounds-blue6);
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text12 {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  font-size: 0.9rem;
+  font-style: normal;
+  margin-top: 0px;
+  font-family: "Arial";
+  font-weight: 700;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-container16 {
+  gap: 5px;
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-self: flex-end;
+  max-height: 100px;
+  min-height: 100px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text13 {
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-textinput2 {
+  width: 100%;
+  min-height: 45px;
+  border-color: Blue1 (Backgrounds);
+  border-radius: 12px;
+  background-color: var(--dl-color-backgrounds-blue6);
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text14 {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-container17 {
+  width: 100%;
+  display: flex;
+  align-self: center;
+  max-height: 110px;
+  min-height: 110px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-container18 {
+  gap: 5px;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-self: flex-end;
+  max-height: 100px;
+  min-height: 100px;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text15 {
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-textinput3 {
+  width: 100%;
+  min-height: 45px;
+  border-color: Blue1 (Backgrounds);
+  border-radius: 12px;
+  background-color: var(--dl-color-backgrounds-blue6);
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text16 {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  font-size: 0.9rem;
+  font-style: normal;
+  margin-top: 0px;
+  font-family: "Arial";
+  font-weight: 700;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-container19 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  max-height: 100px;
+  min-height: 100px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text17 {
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-select1 {
+  flex: 1;
+  width: 100%;
+  max-height: 45px;
+  min-height: 45px;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  padding-left: 12px;
+  border-radius: 12px;
+  background-color: var(--dl-color-backgrounds-blue6);
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text18 {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  display: flex;
+  font-size: 0.9rem;
+  font-style: normal;
+  margin-top: 10px;
+  font-family: "Arial";
+  font-weight: 700;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-container20 {
+  width: 100%;
+  display: flex;
+  align-self: center;
+  max-height: 110px;
+  min-height: 110px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-container21 {
+  gap: 5px;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  max-height: 110px;
+  min-height: 110px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text19 {
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-select2 {
+  flex: 1;
+  width: 100%;
+  max-height: 45px;
+  min-height: 45px;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  padding-left: 13px;
+  border-radius: 12px;
+  background-color: var(--dl-color-backgrounds-blue6);
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text21 {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-container22 {
+  width: 100%;
+  display: flex;
+  align-self: center;
+  max-height: 110px;
+  min-height: 110px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-container23 {
+  gap: 5px;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  max-height: 110px;
+  min-height: 110px;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text22 {
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-select3 {
+  flex: 1;
+  width: 100%;
+  max-height: 45px;
+  min-height: 45px;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 1px;
+  padding-left: 12px;
+  border-radius: 12px;
+  background-color: var(--dl-color-backgrounds-blue6);
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text26 {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-container24 {
+  width: 100%;
+  display: flex;
+  align-self: center;
+  max-height: 110px;
+  min-height: 110px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-container25 {
+  gap: 5px;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  max-height: 110px;
+  min-height: 110px;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text27 {
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-textarea {
+  width: 100%;
+  align-self: flex-start;
+  min-height: 45px;
+  text-align: left;
+  padding-top: 0.5rem;
+  border-color: var(--dl-color-theme-neutral-dark);
+  padding-left: 1rem;
+  border-radius: 12px;
+  padding-right: 1rem;
+  background-color: var(--dl-color-backgrounds-blue6);
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text28 {
+  fill: var(--dl-color-theme-primary2);
+  color: var(--dl-color-theme-primary2);
+  font-size: 0.9rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-button {
+  gap: 8px;
+  width: 150px;
+  height: auto;
+  display: flex;
+  padding: 12px 24px;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-width: 0px;
+  border-radius: 40px;
+  padding-right: 12px 24px;
+  padding-bottom: 12px 24px;
+  justify-content: center;
+  background-color: rgba(255, 102, 51, 1);
+}
+ 
+.burp-suite-dast-sales-enquiry-form-button:hover {
+  background-color: #D84104;
+}
+ 
+.burp-suite-dast-sales-enquiry-form-text29 {
+  color: var(--dl-color-text-white);
+  font-size: 1rem;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 400;
+  line-height: 1.45;
+}
+ 
+@media(max-width: 1536px) {
+  .burp-suite-dast-sales-enquiry-form-text12 {
+    color: var(--dl-color-theme-primary2);
+    display: flex;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-dast-sales-enquiry-form-text14 {
+    color: var(--dl-color-theme-primary2);
+    display: flex;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-dast-sales-enquiry-form-text16 {
+    color: var(--dl-color-theme-primary2);
+    display: flex;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-dast-sales-enquiry-form-text17 {
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-dast-sales-enquiry-form-text18 {
+    color: var(--dl-color-theme-primary2);
+    display: flex;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-dast-sales-enquiry-form-text19 {
+    font-size: 0.9rem;
+  }
+  .burp-suite-dast-sales-enquiry-form-text21 {
+    color: var(--dl-color-theme-primary2);
+    display: flex;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-dast-sales-enquiry-form-text26 {
+    color: var(--dl-color-theme-primary2);
+    display: flex;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-dast-sales-enquiry-form-text27 {
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-dast-sales-enquiry-form-text28 {
+    color: var(--dl-color-theme-primary2);
+    display: flex;
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+}
+ 
+@media(max-width: 1366px) {
+  .burp-suite-dast-sales-enquiry-form-text17 {
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+  }
+}
+ 
+@media(max-width: 1280px) {
+  .burp-suite-dast-sales-enquiry-form-container12 {
+    flex-direction: column;
+  }
+  .burp-suite-dast-sales-enquiry-form-illustration {
+    width: 100%;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .burp-suite-dast-sales-enquiry-form-text10 {
+    width: 100%;
+    text-align: center;
+  }
+  .burp-suite-dast-sales-enquiry-form-select1 {
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+  }
+  .burp-suite-dast-sales-enquiry-form-container21 {
+    padding-right: 20px;
+  }
+  .burp-suite-dast-sales-enquiry-form-text19 {
+    font-size: 0.9rem;
+    font-family: Arial;
+  }
+  .burp-suite-dast-sales-enquiry-form-select2 {
+    height: 45px;
+    max-height: 45px;
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+  }
+  .burp-suite-dast-sales-enquiry-form-text22 {
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-dast-sales-enquiry-form-select3 {
+    height: 89px;
+    max-height: 45px;
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+  }
+  .burp-suite-dast-sales-enquiry-form-text27 {
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+  }
+  .burp-suite-dast-sales-enquiry-form-button {
+    align-self: center;
+  }
+}
+ 
+@media(max-width: 800px) {
+  .burp-suite-dast-sales-enquiry-form-max-width {
+    margin-top: 0px;
+    margin-bottom: 10rem;
+  }
+  .burp-suite-dast-sales-enquiry-form-form {
+    width: 100%;
+    margin-right: 5px;
+  }
+  .burp-suite-dast-sales-enquiry-form-container14 {
+    max-height: 100%;
+    flex-direction: column;
+  }
+  .burp-suite-dast-sales-enquiry-form-container15 {
+    width: 100%;
+    padding-right: 0px;
+  }
+  .burp-suite-dast-sales-enquiry-form-container16 {
+    width: 100%;
+  }
+  .burp-suite-dast-sales-enquiry-form-textinput2 {
+    width: 100%;
+    max-width: 100%;
+  }
+  .burp-suite-dast-sales-enquiry-form-container17 {
+    max-height: 100%;
+    flex-direction: column;
+  }
+  .burp-suite-dast-sales-enquiry-form-container18 {
+    width: 100%;
+    padding-right: 0px;
+  }
+  .burp-suite-dast-sales-enquiry-form-container19 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .burp-suite-dast-sales-enquiry-form-text17 {
+    font-size: 0.9rem;
+    font-style: normal;
+    font-family: Arial;
+    font-weight: 700;
+    padding-bottom: 10px;
+  }
+  .burp-suite-dast-sales-enquiry-form-select1 {
+    height: 65px;
+    max-width: 100%;
+  }
+  .burp-suite-dast-sales-enquiry-form-container20 {
+    max-height: 100%;
+    flex-direction: column;
+  }
+  .burp-suite-dast-sales-enquiry-form-container21 {
+    width: 100%;
+    padding-right: 0px;
+  }
+  .burp-suite-dast-sales-enquiry-form-container22 {
+    max-height: 100%;
+    flex-direction: column;
+  }
+  .burp-suite-dast-sales-enquiry-form-container23 {
+    width: 100%;
+    height: 121px;
+  }
+  .burp-suite-dast-sales-enquiry-form-text22 {
+    font-size: 0.9rem;
+    padding-bottom: 10px;
+  }
+  .burp-suite-dast-sales-enquiry-form-select3 {
+    max-width: 100%;
+    margin-top: 1px;
+  }
+  .burp-suite-dast-sales-enquiry-form-container24 {
+    max-height: 100%;
+    flex-direction: column;
+  }
+  .burp-suite-dast-sales-enquiry-form-container25 {
+    width: 100%;
+    height: 121px;
+  }
+  .burp-suite-dast-sales-enquiry-form-text27 {
+    font-size: 0.9rem;
+    padding-bottom: 10px;
+  }
+  .burp-suite-dast-sales-enquiry-form-button {
+    align-self: center;
+    justify-content: flex-start;
+  }
+}
+ 
+@media(max-width: 390px) {
+  .burp-suite-dast-sales-enquiry-form-hero-form {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  .burp-suite-dast-sales-enquiry-form-form {
+    width: 100%;
+    max-height: auto;
+  }
+  .burp-suite-dast-sales-enquiry-form-text10 {
+    text-align: center;
+  }
+  .burp-suite-dast-sales-enquiry-form-container13 {
+    max-height: auto;
+    min-height: auto;
+  }
+  .burp-suite-dast-sales-enquiry-form-container14 {
+    flex: 1;
+    align-self: center;
+    max-height: 100%;
+    flex-direction: column;
+  }
+  .burp-suite-dast-sales-enquiry-form-container15 {
+    width: 100%;
+    padding-right: 0px;
+  }
+  .burp-suite-dast-sales-enquiry-form-container16 {
+    width: 100%;
+  }
+  .burp-suite-dast-sales-enquiry-form-container17 {
+    max-height: 100%;
+    margin-bottom: 0px;
+    flex-direction: column;
+  }
+  .burp-suite-dast-sales-enquiry-form-container18 {
+    width: 100%;
+    padding-right: 0px;
+  }
+  .burp-suite-dast-sales-enquiry-form-container19 {
+    max-height: 100%;
+    margin-bottom: 0px;
+  }
+  .burp-suite-dast-sales-enquiry-form-select1 {
+    margin-top: 0px;
+  }
+  .burp-suite-dast-sales-enquiry-form-container20 {
+    max-height: 100%;
+    margin-bottom: 0px;
+    flex-direction: column;
+  }
+  .burp-suite-dast-sales-enquiry-form-container21 {
+    width: 100%;
+    margin-bottom: 10px;
+    padding-right: 0px;
+  }
+  .burp-suite-dast-sales-enquiry-form-container22 {
+    max-height: 100%;
+    margin-bottom: 0px;
+    flex-direction: column;
+  }
+  .burp-suite-dast-sales-enquiry-form-container23 {
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+  .burp-suite-dast-sales-enquiry-form-text22 {
+    padding-bottom: 10px;
+  }
+  .burp-suite-dast-sales-enquiry-form-select3 {
+    margin-top: 0px;
+  }
+  .burp-suite-dast-sales-enquiry-form-container24 {
+    max-height: 100%;
+    margin-bottom: 0px;
+    flex-direction: column;
+  }
+  .burp-suite-dast-sales-enquiry-form-container25 {
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+  .burp-suite-dast-sales-enquiry-form-text27 {
+    padding-bottom: 10px;
+  }
+}

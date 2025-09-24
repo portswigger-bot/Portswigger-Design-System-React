@@ -1,0 +1,616 @@
+.customer-story-cristi-vlad-burp-ai-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text100 {
+  color: var(--dl-color-text-header-white);
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text102 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text103 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text104 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text105 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text106 {
+  color: var(--dl-color-text-white);
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text107 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text108 {
+  color: var(--dl-color-core-navy-1);
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text109 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text110 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text111 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text112 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text113 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-link10 {
+  text-decoration: underline;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-link11 {
+  text-decoration: underline;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-link12 {
+  text-decoration: underline;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text124 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text125 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text126 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text130 {
+  font-style: italic;
+  font-weight: 400;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text131 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text132 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text133 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text134 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text135 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text136 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text137 {
+  font-style: italic;
+  font-weight: 400;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text138 {
+  font-style: italic;
+  font-weight: 400;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text139 {
+  font-style: italic;
+  font-weight: 400;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text140 {
+  font-style: italic;
+  font-weight: 400;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text144 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text145 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text146 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text147 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text148 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text149 {
+  display: inline-block;
+  font-style: italic;
+  font-weight: 400;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text150 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text151 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text152 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-link13 {
+  text-decoration: underline;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text155 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text156 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text157 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text158 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text159 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text160 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text161 {
+  font-style: italic;
+  font-weight: 400;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-link14 {
+  text-decoration: underline;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-link15 {
+  text-decoration: underline;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-link16 {
+  text-decoration: underline;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text174 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text175 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text176 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text177 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text178 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text179 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text180 {
+  font-style: italic;
+  font-weight: 400;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-link17 {
+  text-decoration: underline;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text183 {
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-link18 {
+  font-style: italic;
+  text-decoration: underline;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text184 {
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text190 {
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text191 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text192 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text193 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text194 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text195 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text196 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text197 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text198 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text199 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text200 {
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text202 {
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-link19 {
+  text-decoration: underline;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text207 {
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text209 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text210 {
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text212 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text213 {
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text215 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text216 {
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text218 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text219 {
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text221 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text222 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text223 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text224 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text225 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text226 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text227 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text228 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text229 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text231 {
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text233 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text234 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text235 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text236 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text237 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text238 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text243 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text244 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text245 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text249 {
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text250 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text251 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text252 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text253 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text254 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text255 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text256 {
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text262 {
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text263 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text264 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text265 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text266 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text267 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text268 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text269 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text270 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text271 {
+  display: inline-block;
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text272 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text273 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text274 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text276 {
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text277 {
+  color: var(--dl-color-portswigger-primary);
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text278 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text279 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text280 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text281 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text282 {
+  display: inline-block;
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text283 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text284 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text285 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text289 {
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-link20 {
+  font-style: italic;
+  text-decoration: underline;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text290 {
+  font-style: italic;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text291 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text292 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text293 {
+  display: inline-block;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-component44 {
+  text-decoration: none;
+}
+ 
+.customer-story-cristi-vlad-burp-ai-text301 {
+  display: inline-block;
+}

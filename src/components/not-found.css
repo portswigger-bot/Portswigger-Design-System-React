@@ -1,0 +1,32 @@
+.not-found-container1 {
+  position: relative;
+}
+ 
+.not-found-top-image {
+  height: 160px;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("/Pages/404/above.png-1500w.png");
+}
+ 
+.not-found-text1 {
+  color: var(--dl-color-backgrounds-white);
+}
+ 
+.not-found-container4 {
+  display: contents;
+}
+ 
+.not-found-container5 {
+  align-items: center;
+}
+ 
+.not-found-container6 {
+  min-height: 600px;
+}
+ 
+.not-found-bottom-image {
+  height: 160px;
+  background-size: cover;
+  background-image: url("/Pages/404/below.png-1500w.png");
+}

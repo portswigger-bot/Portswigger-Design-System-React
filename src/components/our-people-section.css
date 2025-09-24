@@ -1,0 +1,47 @@
+.our-people-section-text1 {
+  display: inline-block;
+}
+ 
+.our-people-section-text2 {
+  display: inline-block;
+}
+ 
+.our-people-section-text3 {
+  display: inline-block;
+}
+ 
+.our-people-section-component2 {
+  text-decoration: none;
+}
+ 
+.our-people-section-text8 {
+  display: inline-block;
+}
+ 
+.our-people-section-image {
+  width: 2500px;
+  align-self: center;
+  object-fit: cover;
+}
+ 
+
+ 
+
+ 
+@media(max-width: 1280px) {
+  .our-people-section-image {
+    width: 1700px;
+  }
+}
+ 
+@media(max-width: 800px) {
+  .our-people-section-image {
+    width: 1000px;
+  }
+}
+ 
+@media(max-width: 390px) {
+  .our-people-section-image {
+    width: 700px;
+  }
+}

@@ -1,0 +1,33 @@
+.app-sec-qa-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.app-sec-qa-text10 {
+  color: rgb(51, 51, 50);
+  display: inline-block;
+}
+ 
+.app-sec-qa-text11 {
+  color: var(--dl-color-text-header-white);
+}
+ 
+.app-sec-qa-text12 {
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.app-sec-qa-text13 {
+  color: var(--dl-color-text-header-white);
+}
+ 
+.app-sec-qa-text14 {
+  display: inline-block;
+}
+ 
+.app-sec-qa-text15 {
+  color: var(--dl-color-text-header-white);
+  display: inline-block;
+}

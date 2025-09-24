@@ -1,0 +1,59 @@
+.content-banner-with-slot-row-layout-top-label {
+  fill: var(--dl-color-core-orange-1);
+  color: var(--dl-color-core-orange-1);
+}
+ 
+.content-banner-with-slot-row-layout-text1 {
+  fill: var(--dl-color-core-navy-1);
+  color: var(--dl-color-core-navy-1);
+}
+ 
+.content-banner-with-slot-row-layout-ul {
+  margin-top: var(--dl-layout-space-xs);
+}
+ 
+.content-banner-with-slot-row-layout-component2 {
+  text-decoration: none;
+}
+ 
+.content-banner-with-slot-row-layout-text3 {
+  display: inline-block;
+}
+ 
+.content-banner-with-slot-row-layout-text4 {
+  display: inline-block;
+}
+ 
+.content-banner-with-slot-row-layout-text5 {
+  display: inline-block;
+}
+ 
+.content-banner-with-slot-row-layout-text6 {
+  display: inline-block;
+}
+ 
+.content-banner-with-slot-row-layoutroot-class-name {
+  fill: var(--dl-color-text-header-white);
+  color: var(--dl-color-text-header-white);
+  min-height: 100vh;
+}
+ 
+.content-banner-with-slot-row-layoutroot-class-name1 {
+  fill: var(--dl-color-text-header-white);
+  color: var(--dl-color-text-header-white);
+  min-height: 100vh;
+  background-size: cover;
+  background-image: url("/Pages/Future of AppSec/webinar-background-200h.webp");
+}
+ 
+@media(max-width: 1280px) {
+  .content-banner-with-slot-row-layout-max-width {
+    flex-direction: column;
+  }
+}
+ 
+@media(max-width: 800px) {
+  .content-banner-with-slot-row-layout-max-width {
+    align-items: flex-start;
+  }
+}

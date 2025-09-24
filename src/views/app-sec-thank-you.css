@@ -1,0 +1,24 @@
+.app-sec-thank-you-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.app-sec-thank-you-text1 {
+  color: var(--dl-color-text-header-white);
+  display: inline-block;
+}
+ 
+.app-sec-thank-you-text2 {
+  display: inline-block;
+}
+ 
+.app-sec-thank-you-text3 {
+  display: inline-block;
+}
+ 
+.app-sec-thank-you-text4 {
+  display: inline-block;
+}

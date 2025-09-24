@@ -1,0 +1,118 @@
+.extra-navigation-enterprise-extra-navigation {
+  position: relative;
+  border-bottom: 2px solid transparent;
+  background-color: var(--dl-color-backgrounds-white);
+}
+ 
+.extra-navigation-enterprise-mobile {
+  display: none;
+}
+ 
+.extra-navigation-enterprise-trigger1 {
+  cursor: pointer;
+}
+ 
+.extra-navigation-enterprise-summary1 {
+  display: flex;
+}
+ 
+.extra-navigation-enterprise-icon-container1 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.extra-navigation-enterprise-content1 {
+  top: calc(100% + 3px);
+  z-index: 100;
+  box-shadow: 0px 7px 10px 0px rgba(0,0,35,.1);
+  background-color: var(--dl-color-backgrounds-white);
+}
+ 
+.extra-navigation-enterprise-ul {
+  background-color: var(--dl-color-backgrounds-white);
+}
+ 
+.extra-navigation-enterprise-li1 {
+  text-decoration: none;
+}
+ 
+.extra-navigation-enterprise-li2 {
+  text-decoration: none;
+}
+ 
+.extra-navigation-enterprise-li3 {
+  text-decoration: none;
+}
+ 
+.extra-navigation-enterprise-accordion2 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.extra-navigation-enterprise-summary2 {
+  display: flex;
+}
+ 
+.extra-navigation-enterprise-icon-container2 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.extra-navigation-enterprise-accordion3 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+ 
+.extra-navigation-enterprise-summary3 {
+  display: flex;
+}
+ 
+.extra-navigation-enterprise-icon-container3 {
+  transition: transform 0.3s ease-in-out;
+}
+ 
+.extra-navigation-enterprise-text16 {
+  display: inline-block;
+}
+ 
+.extra-navigation-enterprise-text17 {
+  display: inline-block;
+}
+ 
+.extra-navigation-enterprise-text18 {
+  display: inline-block;
+}
+ 
+.extra-navigation-enterprise-text19 {
+  display: inline-block;
+}
+ 
+.extra-navigation-enterprise-text20 {
+  display: inline-block;
+}
+ 
+.extra-navigation-enterprise-text21 {
+  display: inline-block;
+}
+ 
+
+ 
+
+ 
+
+ 
+@media(max-width: 800px) {
+  .extra-navigation-enterprise-extra-navigation {
+    padding-left: var(--dl-layout-space-s);
+    padding-right: var(--dl-layout-space-s);
+  }
+  .extra-navigation-enterprise-mobile {
+    display: flex;
+  }
+  .extra-navigation-enterprise-text10 {
+    grid-row-end: 2;
+    grid-row-start: 1;
+    grid-column-end: 2;
+    grid-column-start: 1;
+  }
+}

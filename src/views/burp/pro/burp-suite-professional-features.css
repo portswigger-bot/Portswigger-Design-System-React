@@ -1,0 +1,420 @@
+.burp-suite-professional-features-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.burp-suite-professional-features-text100 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text101 {
+  color: var(--dl-color-core-navy-1);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text102 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text103 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text104 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text105 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text106 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text107 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text108 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text109 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text110 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-container2 {
+  grid-row-gap: var(--dl-layout-space-s);
+  grid-column-gap: var(--dl-layout-space-m);
+}
+ 
+.burp-suite-professional-features-text111 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text112 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link10 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-text115 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text116 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text117 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text118 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text121 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text122 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text123 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text124 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text125 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text126 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text127 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text128 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text129 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-container3 {
+  grid-row-gap: var(--dl-layout-space-s);
+  grid-column-gap: var(--dl-layout-space-m);
+}
+ 
+.burp-suite-professional-features-text130 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text131 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text132 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text133 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text134 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text135 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text136 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text137 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-container4 {
+  grid-row-gap: var(--dl-layout-space-s);
+  grid-column-gap: var(--dl-layout-space-m);
+}
+ 
+.burp-suite-professional-features-text138 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link11 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-text141 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text142 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link12 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-text145 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text146 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link13 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-text149 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text150 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link14 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-text153 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text154 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text155 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text156 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text157 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text158 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text159 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-container5 {
+  grid-row-gap: var(--dl-layout-space-s);
+  grid-column-gap: var(--dl-layout-space-m);
+}
+ 
+.burp-suite-professional-features-text160 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text161 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text162 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text163 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text164 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text165 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text166 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text167 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text168 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text169 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text170 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-container6 {
+  place-items: start end;
+  grid-row-gap: var(--dl-layout-space-s);
+  grid-column-gap: var(--dl-layout-space-m);
+}
+ 
+.burp-suite-professional-features-text171 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link15 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-text174 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link16 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-text177 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link17 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-text180 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text183 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link19 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-text186 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link20 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-text189 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link21 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-text192 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link22 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-text195 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link23 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-text198 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link24 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-text200 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-link25 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-features-component68 {
+  text-decoration: none;
+}
+ 
+.burp-suite-professional-features-text203 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text204 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text205 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text206 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text207 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text208 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text209 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text210 {
+  color: var(--dl-color-text-header-white);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text211 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-features-text212 {
+  color: var(--dl-color-text-white);
+  display: inline-block;
+}

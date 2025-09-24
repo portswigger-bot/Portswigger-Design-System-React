@@ -1,0 +1,341 @@
+.burp-suite-professional-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.burp-suite-professional-text10 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text11 {
+  color: var(--dl-color-core-white);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text12 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text13 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text14 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text15 {
+  color: var(--dl-color-core-white);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text16 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text17 {
+  color: var(--dl-color-text-header-white);
+}
+ 
+.burp-suite-professional-text18 {
+  color: var(--dl-color-text-header-white);
+}
+ 
+.burp-suite-professional-text19 {
+  color: var(--dl-color-text-header-white);
+}
+ 
+.burp-suite-professional-text21 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text22 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text23 {
+  color: var(--dl-color-text-header-white);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text27 {
+  font-weight: 700;
+}
+ 
+.burp-suite-professional-text28 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text29 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.burp-suite-professional-text30 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text31 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text32 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text33 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text34 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-link1 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-text37 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text38 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text39 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text40 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.burp-suite-professional-text41 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text42 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text43 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text44 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text45 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text49 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text50 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text51 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text55 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text56 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text57 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text58 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text59 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-link2 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-text62 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text63 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text64 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.burp-suite-professional-text65 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text66 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text67 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text68 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text69 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text70 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text71 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text72 {
+  color: var(--dl-color-core-navy-1);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text73 {
+  color: var(--dl-color-core-navy-1);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text74 {
+  color: var(--dl-color-core-navy-1);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-component23 {
+  text-decoration: none;
+}
+ 
+.burp-suite-professional-text75 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text76 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text77 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text78 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text79 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-link4 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-text82 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text83 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-link5 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-link6 {
+  text-decoration: underline;
+}
+ 
+.burp-suite-professional-text87 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text88 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.burp-suite-professional-text89 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text90 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text91 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text92 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text93 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text94 {
+  display: inline-block;
+  font-weight: 700;
+}
+ 
+.burp-suite-professional-text95 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text96 {
+  color: var(--dl-color-text-header-white);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text97 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text98 {
+  color: var(--dl-color-text-white);
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text99 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text100 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text101 {
+  display: inline-block;
+}
+ 
+.burp-suite-professional-text107 {
+  display: inline-block;
+  font-weight: 700;
+}
