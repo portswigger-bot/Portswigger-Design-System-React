@@ -2,6 +2,7 @@ import React, { Fragment } from 'react'
 
 import { Helmet } from 'react-helmet'
 
+import LiveTagProduction from '../../components/live-tag-production'
 import Navigation from '../../components/navigation'
 import ExtraNavigationPro from '../../components/extra-navigation-pro'
 import Hero from '../../components/hero'
@@ -31,6 +32,7 @@ const BurpAI = (props) => {
           content="Hack smarter, not harder. Seamlessly integrate trusted AI capabilities into Burp Suite - on your terms with Burp AI."
         />
       </Helmet>
+      <LiveTagProduction rootClassName="live-tag-productionroot-class-name60"></LiveTagProduction>
       <Navigation rootClassName="navigationroot-class-name14"></Navigation>
       <ExtraNavigationPro
         dropdownLabel={
@@ -70,7 +72,7 @@ const BurpAI = (props) => {
       ></ExtraNavigationPro>
       <main className="align-center column width-100">
         <Hero
-          ctaUrl="https://www.google.com/url?q=https://portswigger.net/burp/releases%23professional&amp;sa=D&amp;source=docs&amp;ust=1758615560049740&amp;usg=AOvVaw0emx7nHRqEPMCbCzVSglKd"
+          ctaUrl="https://portswigger.net/burp/releases#professional"
           heading={
             <Fragment>
               <span className="burp-ai-text11">
@@ -131,7 +133,8 @@ const BurpAI = (props) => {
               <span className="burp-ai-text22">BUTTON</span>
             </Fragment>
           }
-          imageSrc="/Pages/Burp AI/4_bypassfiltersandinputsanitization-1200w.png"
+          imageSrc="/Pages/Burp AI/ai-repeater-new-1200w.gif"
+          mediaType="Image"
           rootClassName="media-sectionroot-class-name8"
         ></MediaSection>
         <HeadingAndParagraph
@@ -278,7 +281,7 @@ const BurpAI = (props) => {
           showParagraph={false}
         ></HeadingAndParagraph>
         <FeaturesList
-          ctaUrl="https://www.google.com/url?q=https://portswigger.net/burp/releases%23professional&amp;sa=D&amp;source=docs&amp;ust=1758615560048325&amp;usg=AOvVaw2toKvVnp1B83OwAHCn8QNp"
+          ctaUrl="https://portswigger.net/burp/releases#professional"
           ctaType="primary"
           ctaLabel={
             <Fragment>
@@ -288,7 +291,7 @@ const BurpAI = (props) => {
               </span>
             </Fragment>
           }
-          mainImgSrc="/Pages/Burp AI/1_whatisburpai-1200w.gif"
+          mainImgSrc="/Pages/Burp AI/ai-repeater-new-1200w.gif"
           showCtaBtn
           ctaIconType="airplay"
           featureList={[
@@ -383,6 +386,7 @@ const BurpAI = (props) => {
           showParagraph={false}
         ></HeadingAndParagraph>
         <FeaturesList
+          ctaUrl="https://portswigger.net/burp/ai/capabilities"
           ctaLabel={
             <Fragment>
               <span className="burp-ai-text50">FIND OUT MORE</span>
@@ -495,7 +499,7 @@ const BurpAI = (props) => {
           showParagraph={false}
         ></HeadingAndParagraph>
         <FeaturesList
-          ctaUrl="https://www.google.com/url?q=https://portswigger.net/burp/releases%23professional&amp;sa=D&amp;source=docs&amp;ust=1758615560048550&amp;usg=AOvVaw298xkqKBZIv2RTUPDkhqys"
+          ctaUrl="https://portswigger.net/burp/releases#professional"
           ctaType="outline-orange"
           ctaLabel={
             <Fragment>
@@ -795,7 +799,7 @@ const BurpAI = (props) => {
             redirectUrl="https://portswigger.net/burp/documentation/desktop/extensions/ai-security-privacy-data-handling"
             iconPlacement="none"
             rootClassName="buttonroot-class-name37"
-            className="burp-ai-component31"
+            className="burp-ai-component32"
           ></Button>
         </a>
         <HeadingAndParagraph

@@ -6682,7 +6682,10 @@ const Icon1 = (props) => {
         <img src="/Icons/secure-code.svg" className="icon1-image3" />
       )}
       {props.type === 'discover' && (
-        <img src="/external/discover-flavicon.svg" className="icon1-image4" />
+        <img
+          src="/external/discover-flavicon-duplicate.svg"
+          className="icon1-image4"
+        />
       )}
       {props.type === 'attack' && (
         <img

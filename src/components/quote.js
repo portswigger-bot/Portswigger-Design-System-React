@@ -80,7 +80,7 @@ const Quote = (props) => {
           <div className="quote-right-quote">
             <img
               alt="image"
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/08f747ed-00a5-4c49-bf33-6ab4b22224ae/b467da8e-a881-4003-a42a-6a95e9c47e07?org_if_sml=12375&amp;force_format=original"
+              src="/external/ps-quote-right-orange%201.svg"
               className="quote-image2"
             />
           </div>

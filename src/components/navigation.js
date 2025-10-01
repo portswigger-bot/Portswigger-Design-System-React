@@ -4,6 +4,7 @@ import { Repeater } from '@teleporthq/react-components'
 import Script from 'dangerous-html/react'
 import PropTypes from 'prop-types'
 
+import NotificationTopHeader from './notification-top-header'
 import Icon from './icon'
 import Button from './button'
 import NavigationDropdownLink from './navigation-dropdown-link'
@@ -14,6 +15,14 @@ const Navigation = (props) => {
     <header
       className={`align-center navigation-root column width-100 ${props.rootClassName} `}
     >
+      <NotificationTopHeader
+        text={
+          <Fragment>
+            <span className="navigation-text10">Read More</span>
+          </Fragment>
+        }
+        rootClassName="notification-top-headerroot-class-name2"
+      ></NotificationTopHeader>
       <div className="align-center border-navigation position-relative padding-horizontal-m padding-bottom-xxs navigation-container padding-top-s justify-center width-100 row">
         <div className="width-max-content justify-in-between width-100 row">
           <a href="https://portswigger.net">
@@ -36,7 +45,7 @@ const Navigation = (props) => {
                 size="small"
                 btnLabel={
                   <Fragment>
-                    <span className="navigation-text10">MY ACCOUNT</span>
+                    <span className="navigation-text11">MY ACCOUNT</span>
                   </Fragment>
                 }
                 iconPlacement="none"
@@ -49,28 +58,28 @@ const Navigation = (props) => {
                 <NavigationDropdownLink
                   label={
                     <Fragment>
-                      <span className="navigation-text11">Products</span>
+                      <span className="navigation-text12">Products</span>
                     </Fragment>
                   }
                   listType="withImages"
                   navLinkId="products"
                   rightTitle={
                     <Fragment>
-                      <span className="navigation-text12">Burp Scanner</span>
+                      <span className="navigation-text13">Burp Scanner</span>
                     </Fragment>
                   }
                   bottomLinkUrl="https://portswigger.net/burp"
                   rightImageSrc="/Navigation/navigation-products-300w.jpg"
                   bottomLinkLabel={
                     <Fragment>
-                      <span className="navigation-text13">
+                      <span className="navigation-text14">
                         View all product editions
                       </span>
                     </Fragment>
                   }
                   rightDescription={
                     <Fragment>
-                      <span className="navigation-text14">
+                      <span className="navigation-text15">
                         Burp Suite&apos;s web vulnerability scanner
                       </span>
                     </Fragment>
@@ -80,27 +89,27 @@ const Navigation = (props) => {
                 <NavigationDropdownLink
                   label={
                     <Fragment>
-                      <span className="navigation-text15">Solutions</span>
+                      <span className="navigation-text16">Solutions</span>
                     </Fragment>
                   }
                   navLinkId="solutions"
                   rightTitle={
                     <Fragment>
-                      <span className="navigation-text16">Burp Scanner</span>
+                      <span className="navigation-text17">Burp Scanner</span>
                     </Fragment>
                   }
                   bottomLinkUrl="https://portswigger.net/solutions"
                   rightImageSrc="/Navigation/navigation-solutions-300w.jpg"
                   bottomLinkLabel={
                     <Fragment>
-                      <span className="navigation-text17">
+                      <span className="navigation-text18">
                         View all solutions
                       </span>
                     </Fragment>
                   }
                   rightDescription={
                     <Fragment>
-                      <span className="navigation-text18">
+                      <span className="navigation-text19">
                         Burp Suite&apos;s web vulnerability scanner
                       </span>
                     </Fragment>
@@ -122,20 +131,20 @@ const Navigation = (props) => {
                 <NavigationDropdownLink
                   label={
                     <Fragment>
-                      <span className="navigation-text19">Support</span>
+                      <span className="navigation-text20">Support</span>
                     </Fragment>
                   }
                   navLinkId="suuport"
                   rightTitle={
                     <Fragment>
-                      <span className="navigation-text20">Downloads</span>
+                      <span className="navigation-text21">Downloads</span>
                     </Fragment>
                   }
                   bottomLinkUrl="https://portswigger.net/support"
                   rightImageSrc="/Navigation/navigation-support-300w.jpg"
                   bottomLinkLabel={
                     <Fragment>
-                      <span className="navigation-text21">
+                      <span className="navigation-text22">
                         Visit the Support Center
                       </span>
                     </Fragment>
@@ -177,7 +186,7 @@ const Navigation = (props) => {
                   ]}
                   rightDescription={
                     <Fragment>
-                      <span className="navigation-text22">
+                      <span className="navigation-text23">
                         Download the latest version of Burp Suite
                       </span>
                     </Fragment>
@@ -244,17 +253,23 @@ const Navigation = (props) => {
             </div>
           </div>
           <div className="navigation-mobile-menu mobile-menu-container gap-s align-center justify-center row">
-            <Button
-              size="small"
-              btnLabel={
-                <Fragment>
-                  <span className="navigation-text23">LOGIN</span>
-                </Fragment>
-              }
-              iconPlacement="none"
-              rootClassName="buttonroot-class-name1"
-              className="navigation-login2"
-            ></Button>
+            <a
+              href="https://portswigger.net/users"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              <Button
+                size="small"
+                btnLabel={
+                  <Fragment>
+                    <span className="navigation-text24">MY ACCOUNT</span>
+                  </Fragment>
+                }
+                iconPlacement="none"
+                rootClassName="buttonroot-class-name1"
+                className="navigation-login2"
+              ></Button>
+            </a>
             <div data-thq="accordion">
               <details
                 name="root"
@@ -315,8 +330,8 @@ const Navigation = (props) => {
                             items={
                               props['productDropdownItems'] || [
                                 {
-                                  href: 'https://portswigger.net/burp/enterprise',
-                                  title: 'Burp Suite Enterprise Edition',
+                                  href: 'https://portswigger.net/burp/dast',
+                                  title: 'Burp Suite DAST',
                                   iconType: 'logo-enterprise',
                                   description:
                                     'The enterprise-enabled dynamic web vulnerability scanner.',
@@ -653,7 +668,7 @@ const Navigation = (props) => {
       <label
         id="navLabel"
         htmlFor="mega-nav-close"
-        className="navigation-text31"
+        className="navigation-text32"
       >
          
       </label>
@@ -788,8 +803,8 @@ Navigation.defaultProps = {
   rootClassName: '',
   productDropdownItems: [
     {
-      href: 'https://portswigger.net/burp/enterprise',
-      title: 'Burp Suite Enterprise Edition',
+      href: 'https://portswigger.net/burp/dast',
+      title: 'Burp Suite DAST',
       iconType: 'logo-enterprise',
       description: 'The enterprise-enabled dynamic web vulnerability scanner.',
     },

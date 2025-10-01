@@ -3,6 +3,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 
 import Icon from './icon'
+import SalesforceTracking from './salesforce-tracking'
 import './footer.css'
 
 const Footer = (props) => {
@@ -166,6 +167,7 @@ const Footer = (props) => {
           </a>
         </div>
       </div>
+      <SalesforceTracking rootClassName="salesforce-trackingroot-class-name"></SalesforceTracking>
     </footer>
   )
 }

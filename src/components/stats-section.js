@@ -44,7 +44,7 @@ const StatsSection = (props) => {
         ></HeadingAndParagraph>
         <div className="gap-l grid-columns-2 grid width-100">
           <div className="align-center column gap-xs">
-            <span className="stats-section-text13">79,717</span>
+            <span className="stats-section-text13">88,000</span>
             <span className="stats-section-text14 text-body-1">
               Burp Suite customers
             </span>
@@ -56,11 +56,11 @@ const StatsSection = (props) => {
             </span>
           </div>
           <div className="align-center column gap-xs">
-            <span className="stats-section-text17">245</span>
+            <span className="stats-section-text17">165</span>
             <span className="stats-section-text18 text-body-1">Countries</span>
           </div>
           <div className="align-center column gap-xs">
-            <span className="stats-section-text19">79,717</span>
+            <span className="stats-section-text19">18,000</span>
             <span className="stats-section-text20 text-body-1">
               Organizations
             </span>

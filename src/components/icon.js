@@ -8809,7 +8809,7 @@ const Icon = (props) => {
       {props.type === 'discover' && (
         <img
           alt="image"
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/08f747ed-00a5-4c49-bf33-6ab4b22224ae/c3f409e4-5e33-415d-ba69-321429c92a8c?org_if_sml=15591&amp;force_format=original"
+          src="/Icons/discover-flavicon.svg"
           className="icon-discover"
         />
       )}

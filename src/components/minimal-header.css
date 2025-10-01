@@ -1,4 +1,22 @@
-.minimal-header-container {
+.minimal-header-container1 {
+  background-color: var(--dl-color-core-navy-1);
+}
+ 
+.minimal-header-container2 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.minimal-header-text {
+  display: inline-block;
+}
+ 
+.minimal-header-container3 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
   background-color: var(--dl-color-core-navy-1);
 }
  

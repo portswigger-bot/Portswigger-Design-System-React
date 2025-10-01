@@ -224,6 +224,21 @@ const TestHomePage = (props) => {
         <OurPeopleSection rootClassName="our-people-sectionroot-class-name1"></OurPeopleSection>
         <SecurityCardsSection rootClassName="security-cards-sectionroot-class-name1"></SecurityCardsSection>
       </main>
+      <a
+        href="https://portswigger.net#test"
+        target="_blank"
+        rel="noreferrer noopener"
+        className="test-home-page-link1 button"
+      >
+        Button
+      </a>
+      <a
+        href="https://example.com#blah"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
+        Link
+      </a>
       <Footer rootClassName="footerroot-class-name42"></Footer>
     </div>
   )

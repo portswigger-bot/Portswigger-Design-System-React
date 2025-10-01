@@ -8,7 +8,7 @@ import './news-cards-section-burp-ai.css'
 const NewsCardsSectionBurpAI = (props) => {
   return (
     <div
-      className={`align-center position-relative padding-l column width-100 ${props.rootClassName} `}
+      className={`align-center position-relative padding-l column width-100 prevent-horizontal-overflow ${props.rootClassName} `}
     >
       <div className="gap-l align-center width-max-content column width-100">
         <div className="news-cards-section-burp-ai-container2 gap-m grid width-100">

@@ -24,6 +24,17 @@ const MediaSection = (props) => {
             className="media-section-iframe"
           ></iframe>
         )}
+        {props.mediaType === 'video' && (
+          <video
+            src
+            loop="true"
+            muted="true"
+            poster="https://play.teleporthq.io/static/svg/videoposter.svg"
+            autoPlay="true"
+            playsInline="true"
+            className="media-section-video"
+          ></video>
+        )}
         {props.showCta === true && (
           <a href={props.componentUrl}>
             <Button

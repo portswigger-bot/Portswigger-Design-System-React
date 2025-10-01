@@ -1,7 +1,7 @@
 .footer-footer {
   color: var(--dl-color-text-body-grey);
   position: relative;
-  border-top: var(--dl-others-borders-border-orange);
+  border-top: var(--border-orange);
   border-top-width: 3px;
 }
  

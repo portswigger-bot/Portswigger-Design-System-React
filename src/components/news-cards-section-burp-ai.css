@@ -111,3 +111,9 @@
 }
  
 
+ 
+@media(max-width: 390px) {
+  .news-cards-section-burp-ai-container2 {
+    grid-template-columns: 1fr;
+  }
+}

@@ -14,7 +14,7 @@ const Hero = (props) => {
     >
       <div className="gap-m align-center width-max-content justify-center width-100 row hero-max-width">
         <div
-          className={`gap-s column ${
+          className={`hero-content gap-s column ${
             props?.columnLayout === '50-50' ? 'width-50' : ''
           } ${props?.columnLayout === '70-30' ? 'width-70' : ''} ${
             props?.columnLayout === '40-60' ? 'width-40' : ''

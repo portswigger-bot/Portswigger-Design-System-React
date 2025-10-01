@@ -6,7 +6,7 @@
 }
  
 .sticky-side-navigation-header-container {
-  border-bottom: var(--dl-others-borders-border-grey);
+  border-bottom: var(--border-grey);
 }
  
 .sticky-side-navigation-links {
